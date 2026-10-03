@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Desk Ticker</title>
+<style>
+  :root{
+    --bg:#0a0e14; --panel:#10151d; --line:#1c2530; --txt:#d7e0ea;
+    --dim:#7d8ca0; --up:#26d07c; --down:#ff5470; --accent:#4da3ff;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html,body{height:100%;}
+  body{background:var(--bg); color:var(--txt);
+       font-family:"SF Mono","Cascadia Code",Consolas,Menlo,monospace;
+       display:flex; flex-direction:column; overflow:hidden;}
+  header{display:flex; align-items:baseline; justify-content:space-between;
+         padding:10px 18px; border-bottom:1px solid var(--line);}
+  header h1{font-size:20px; letter-spacing:3px; color:var(--accent);}
+  header h1 span{color:var(--dim); font-size:12px; letter-spacing:1px;}
+  #clock{font-size:20px; color:var(--txt);}
+  #mkt{font-size:12px; padding:3px 10px; border-radius:20px; margin-left:10px;}
+  #mkt.open{background:rgba(38,208,124,.15); color:var(--up); border:1px solid var(--up);}
+  #mkt.closed{background:rgba(125,140,160,.12); color:var(--dim); border:1px solid var(--dim);}
+  .tape{border-bottom:1px solid var(--line); overflow:hidden; white-space:nowrap;
+        background:var(--panel); height:44px; display:flex; align-items:center;}
+  .tape-inner{display:inline-block; padding-left:100%; animation:tape 60s linear infinite;}
+  @keyframes tape{to{transform:translateX(-100%);}}
+  .titem{display:inline-block; margin:0 26px; font-size:15px;}
+  .titem b{color:var(--dim); font-weight:normal; margin-right:8px; font-size:12px;}
+  main{flex:1; display:grid; grid-template-columns:1.15fr 1.3fr 1fr; gap:12px;
+       padding:12px 18px; min-height:0;}
+  section{background:var(--panel); border:1px solid var(--line); border-radius:10px;
+          padding:12px 14px; overflow:hidden; display:flex; flex-direction:column; min-height:0;}
+  section h2{font-size:12px; letter-spacing:2px; color:var(--dim); margin-bottom:10px;
+             display:flex; justify-content:space-between; align-items:center;}
+  section h2 em{font-style:normal; color:var(--accent); font-size:11px; letter-spacing:0;}
+  .scroll{overflow-y:auto; scrollbar-width:thin; flex:1; min-height:0;}
+  .qrow{display:grid; grid-template-columns:64px 1fr 92px 84px; align-items:center;
+        padding:7px 4px; border-bottom:1px solid var(--line); font-size:15px;}
+  .qrow .sym{font-weight:bold; font-size:14px;}
+  .qrow .px{text-align:right;}
+  .qrow .chg{text-align:right; font-weight:bold;}
+  .up{color:var(--up);} .down{color:var(--down);}
+  .spark{width:84px; height:26px;}
+  .brief-item{padding:10px 4px; border-bottom:1px solid var(--line);}
+  .brief-item .bh{font-size:15px; font-weight:bold; margin-bottom:4px;}
+  .brief-item .bh .mv{margin-left:8px;}
+  .brief-item p{font-size:13.5px; color:var(--txt); line-height:1.5;}
+  .brief-sum{font-size:14px; line-height:1.6; color:var(--txt);
+             background:rgba(77,163,255,.07); border-left:3px solid var(--accent);
+             padding:10px 12px; margin-bottom:8px; border-radius:0 8px 8px 0;}
+  .nitem{display:block; padding:9px 4px; border-bottom:1px solid var(--line);
+         text-decoration:none; color:var(--txt);}
+  .nitem:hover .nh{color:var(--accent);}
+  .nitem .nh{font-size:14px; line-height:1.45; margin-bottom:3px;}
+  .nitem .ns{font-size:11.5px; color:var(--dim);}
+  footer{display:flex; justify-content:space-between; padding:8px 18px;
+         border-top:1px solid var(--line); font-size:11.5px; color:var(--dim);}
+  #err{display:none; background:#3a1420; color:#ff8ba0; padding:8px 18px; font-size:13px;}
+</style>
+</head>
+<body>
+<div id="err"></div>
+<header>
+  <h1>DESK TICKER <span>v1</span></h1>
+  <div><span id="clock">--:--</span><span id="mkt" class="closed">...</span></div>
+</header>
+<div class="tape"><div class="tape-inner" id="tape"></div></div>
+<main>
+  <section>
+    <h2>WATCHLIST <em id="watch-asof"></em></h2>
+    <div class="scroll" id="watch"></div>
+  </section>
+  <section>
+    <h2>WHY IT'S MOVING <em id="brief-asof"></em></h2>
+    <div class="scroll" id="brief"><div class="brief-sum">Loading brief...</div></div>
+  </section>
+  <section>
+    <h2>MARKET NEWS <em id="news-asof"></em></h2>
+    <div class="scroll" id="news"></div>
+  </section>
+</main>
+<footer>
+  <span id="gen">waiting for data...</span>
+  <span>Delayed quotes, ambient use only. Not investment advice.</span>
+</footer>
+<script>
+const REFRESH_MS = 60000;
+function fmt(n){return n.toLocaleString("en-US",{minimumFractionDigits:2,maximumFractionDigits:2});}
+function sparkSVG(pts, up){
+  if(!pts||pts.length<2) return "";
+  const w=84,h=26,min=Math.min(...pts),max=Math.max(...pts),rg=(max-min)||1;
+  const step=w/(pts.length-1);
+  const d=pts.map((p,i)=>`${(i*step).toFixed(1)},${(h-3-((p-min)/rg)*(h-6)).toFixed(1)}`).join(" ");
+  const c=up?"#26d07c":"#ff5470";
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}"><polyline points="${d}" fill="none" stroke="${c}" stroke-width="1.6"/></svg>`;
+}
+function tick(){
+  const el=document.getElementById("clock");
+  el.textContent=new Date().toLocaleTimeString("en-US",{hour:"numeric",minute:"2-digit",timeZone:"America/New_York"})+" ET";
+}
+async function load(){
+  try{
+    const [d,b]=await Promise.all([
+      fetch("data.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json();}),
+      fetch("brief.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json();}).catch(()=>null)
+    ]);
+    document.getElementById("err").style.display="none";
+    // tape
+    document.getElementById("tape").innerHTML = d.tape.map(t=>{
+      const cls=t.chg_pct>=0?"up":"down", s=t.chg_pct>=0?"+":"";
+      return `<span class="titem"><b>${t.label}</b>${fmt(t.price)} <span class="${cls}">${s}${t.chg_pct.toFixed(2)}%</span></span>`;
+    }).join("");
+    // market badge
+    const m=document.getElementById("mkt");
+    m.textContent=d.market_open?"MARKET OPEN":"MARKET CLOSED";
+    m.className=d.market_open?"open":"closed"; m.id="mkt";
+    // watchlist
+    document.getElementById("watch").innerHTML = d.watch.map(q=>{
+      const up=q.chg_pct>=0, cls=up?"up":"down", s=up?"+":"";
+      return `<div class="qrow"><span class="sym">${q.symbol}</span>${sparkSVG(q.spark,up)}<span class="px">${fmt(q.price)}</span><span class="chg ${cls}">${s}${q.chg_pct.toFixed(2)}%</span></div>`;
+    }).join("");
+    document.getElementById("watch-asof").textContent=d.watch[0]?d.watch[0].mkt_time:"";
+    // brief
+    if(b){
+      document.getElementById("brief-asof").textContent=b.generated_at||"";
+      document.getElementById("brief").innerHTML =
+        (b.summary?`<div class="brief-sum">${b.summary}</div>`:"") +
+        (b.items||[]).map(it=>{
+          const up=it.move>=0, cls=up?"up":"down", s=up?"+":"";
+          return `<div class="brief-item"><div class="bh">${it.ticker}<span class="mv ${cls}">${s}${it.move.toFixed(2)}%</span></div><p>${it.why}</p></div>`;
+        }).join("");
+    }
+    // news
+    document.getElementById("news-asof").textContent=d.generated_at;
+    document.getElementById("news").innerHTML = d.news.map(n=>
+      `<a class="nitem" href="${n.link}" target="_blank"><div class="nh">${n.headline}</div><div class="ns">${n.source} &middot; ${n.time}</div></a>`
+    ).join("");
+    document.getElementById("gen").textContent="Updated "+d.generated_at;
+  }catch(e){
+    const er=document.getElementById("err");
+    er.style.display="block"; er.textContent="Could not load data.json / brief.json. Waiting for first update...";
+  }
+}
+tick(); setInterval(tick,10000); load(); setInterval(load,REFRESH_MS);
+</script>
+</body>
+</html>
