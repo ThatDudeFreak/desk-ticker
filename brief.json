@@ -1,27 +1,27 @@
 {
-  "generated_at": "10/5 1:23 PM ET",
-  "summary": "Tech is doing the lifting again. The Nasdaq pushed to a fresh record on fresh AI catalysts while the Dow lagged and Treasury yields kept climbing.",
-  "market_note": "S&P futures up 0.6%, Dow futures flat, oil down 1% to about $90, 10-year yield up to 5.33%.",
+  "generated_at": "10/5 1:51 PM ET",
+  "summary": "Tech is doing the heavy lifting again, with the Nasdaq touching a fresh record on AI momentum while the Dow lags and oil slides.",
+  "market_note": "S&P futures up, oil down, and 10-year yields climbing, so watch whether bonds spoil the tech party.",
   "items": [
     {
       "ticker": "TSLA",
-      "move": 2.36,
-      "why": "Follow-through from Friday's Q3 delivery beat (486,532 vehicles vs about 461,000 expected), plus Musk confirming weekend talks with TSMC on the Terafab chip project."
+      "move": 2.39,
+      "why": "Momentum from Friday's Q3 deliveries beat of 486,532 vehicles versus about 450k expected, plus a reported order for 50 Tesla Semis from IMC Logistics and fresh buzz around the robotaxi push."
     },
     {
       "ticker": "META",
-      "move": 2.12,
-      "why": "Extending Friday's 6% rally after Reuters reported Meta will manufacture its custom AI chip, Iris, with BofA reiterating a Buy on the AI infrastructure story."
-    },
-    {
-      "ticker": "MSFT",
-      "move": 1.65,
-      "why": "Melius Research upgraded Microsoft to Buy on Monday, lifting its price target to $665 and calling Nadella's team the adults in charge of AI; Copilot also crossed 30 million paid seats."
+      "move": 2.13,
+      "why": "Continuing last week's rally after its Connect hardware event and reports of a new in-house AI chip; BofA reiterated a Buy with an $835 target, lifting AI infrastructure sentiment."
     },
     {
       "ticker": "NVDA",
-      "move": 1.32,
-      "why": "No single headline; riding the broader tape as the Nasdaq pushes to a fresh record on the day's AI momentum."
+      "move": 1.58,
+      "why": "Riding the AI trade as the Nasdaq hits a fresh record; investor Dan Niles called Nvidia the tip of the spear for AI, and Barron's flagged Nvidia among the day's drivers."
+    },
+    {
+      "ticker": "MSFT",
+      "move": 1.5,
+      "why": "One of the day's standouts in Investor's Business Daily's live market coverage, climbing with the broader AI-led tech rally as the Nasdaq sets a new high."
     }
   ]
 }
