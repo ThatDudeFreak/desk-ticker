@@ -1,304 +1,365 @@
 {
- "generated_at": "10/3 3:49 PM ET",
- "market_open": false,
+ "generated_at": "10/5 10:02 AM ET",
+ "market_open": true,
  "tape": [
   {
    "symbol": "ES=F",
-   "price": 7777.25,
-   "chg_pct": 0.69,
-   "prev_close": 7746.75,
+   "price": 7788.75,
+   "chg_pct": 0.15,
+   "prev_close": 7715.5,
    "spark": [
-    7746.75,
-    7732.0,
     7715.5,
     7724.0,
-    7777.25
+    7777.25,
+    7788.75
    ],
-   "mkt_time": "10/2 5:00 PM ET",
+   "mkt_time": "10/5 9:51 AM ET",
    "label": "S&P FUT"
   },
   {
    "symbol": "NQ=F",
-   "price": 31061.75,
-   "chg_pct": 0.98,
-   "prev_close": 30566.25,
+   "price": 31183.75,
+   "chg_pct": 0.39,
+   "prev_close": 30698.75,
    "spark": [
-    30566.25,
-    30613.25,
     30698.75,
     30760.5,
-    31061.75
+    31061.75,
+    31183.75
    ],
-   "mkt_time": "10/2 4:59 PM ET",
+   "mkt_time": "10/5 9:52 AM ET",
    "label": "NAS FUT"
   },
   {
    "symbol": "YM=F",
-   "price": 51477.0,
-   "chg_pct": 0.46,
-   "prev_close": 51837.0,
+   "price": 51200.0,
+   "chg_pct": -0.54,
+   "prev_close": 51278.0,
    "spark": [
-    51837.0,
-    51702.0,
     51278.0,
     51241.0,
-    51477.0
+    51477.0,
+    51200.0
    ],
-   "mkt_time": "10/2 4:59 PM ET",
+   "mkt_time": "10/5 9:52 AM ET",
    "label": "DOW FUT"
   },
   {
    "symbol": "^VIX",
-   "price": 15.31,
-   "chg_pct": -6.59,
-   "prev_close": 16.07,
+   "price": 15.9,
+   "chg_pct": 3.85,
+   "prev_close": 16.04,
    "spark": [
-    16.07,
     16.04,
     16.34,
     16.39,
-    15.31
+    15.31,
+    15.9
    ],
-   "mkt_time": "10/2 4:15 PM ET",
+   "mkt_time": "10/5 9:47 AM ET",
    "label": "VIX"
   },
   {
    "symbol": "^TNX",
-   "price": 5.28,
-   "chg_pct": 0.76,
-   "prev_close": 5.24,
+   "price": 5.3,
+   "chg_pct": 0.4,
+   "prev_close": 5.25,
    "spark": [
-    5.24,
     5.26,
     5.29,
     5.24,
-    5.28
+    5.28,
+    5.3
    ],
-   "mkt_time": "10/2 2:59 PM ET",
+   "mkt_time": "10/5 9:47 AM ET",
    "label": "10Y"
   },
   {
    "symbol": "BTC-USD",
-   "price": 84754.35,
-   "chg_pct": 0.55,
-   "prev_close": 83622.43,
+   "price": 86397.65,
+   "chg_pct": 1.31,
+   "prev_close": 84853.1,
    "spark": [
-    83622.43,
-    83553.85,
     84853.1,
     84497.21,
-    84754.35
+    84763.58,
+    86480.3,
+    86397.65
    ],
-   "mkt_time": "10/3 3:49 PM ET",
+   "mkt_time": "10/5 10:02 AM ET",
    "label": "BTC"
   },
   {
    "symbol": "GC=F",
-   "price": 4162.3,
-   "chg_pct": -0.95,
-   "prev_close": 4168.4,
+   "price": 4170.1,
+   "chg_pct": 0.19,
+   "prev_close": 4186.7,
    "spark": [
-    4168.4,
-    4179.7,
     4186.7,
     4202.3,
-    4162.3
+    4162.3,
+    4170.1
    ],
-   "mkt_time": "10/2 4:59 PM ET",
+   "mkt_time": "10/5 9:52 AM ET",
    "label": "GOLD"
   },
   {
    "symbol": "CL=F",
-   "price": 91.11,
-   "chg_pct": -1.9,
-   "prev_close": 92.6,
+   "price": 89.79,
+   "chg_pct": -1.45,
+   "prev_close": 90.42,
    "spark": [
-    92.6,
-    89.38,
     90.42,
     92.87,
-    91.11
+    91.11,
+    89.79
    ],
-   "mkt_time": "10/2 5:00 PM ET",
+   "mkt_time": "10/5 9:52 AM ET",
    "label": "OIL"
   }
  ],
  "watch": [
   {
    "symbol": "SPY",
-   "price": 769.64,
-   "chg_pct": 0.74,
-   "prev_close": 771.35,
+   "price": 770.98,
+   "chg_pct": 0.17,
+   "prev_close": 765.61,
    "spark": [
-    765.61,
     764.2,
     762.63,
     763.99,
-    769.64
+    769.64,
+    770.98
    ],
-   "mkt_time": "10/2 4:00 PM ET"
+   "mkt_time": "10/5 10:02 AM ET"
   },
   {
    "symbol": "QQQ",
-   "price": 749.58,
-   "chg_pct": 1.02,
-   "prev_close": 744.5,
+   "price": 751.58,
+   "chg_pct": 0.27,
+   "prev_close": 736.53,
    "spark": [
-    736.53,
     737.93,
     739.77,
     742.03,
-    749.58
+    749.58,
+    751.58
    ],
-   "mkt_time": "10/2 4:00 PM ET"
+   "mkt_time": "10/5 10:02 AM ET"
   },
   {
    "symbol": "DIA",
-   "price": 511.1,
-   "chg_pct": 0.49,
-   "prev_close": 517.49,
+   "price": 508.91,
+   "chg_pct": -0.43,
+   "prev_close": 514.02,
    "spark": [
-    514.02,
     512.88,
     508.55,
     508.62,
-    511.1
+    511.1,
+    508.91
    ],
-   "mkt_time": "10/2 4:00 PM ET"
+   "mkt_time": "10/5 10:02 AM ET"
   },
   {
    "symbol": "IWM",
-   "price": 281.52,
-   "chg_pct": 0.9,
-   "prev_close": 281.97,
+   "price": 281.31,
+   "chg_pct": -0.07,
+   "prev_close": 280.02,
    "spark": [
-    280.02,
     279.01,
     277.89,
     279.02,
-    281.52
+    281.52,
+    281.32
    ],
-   "mkt_time": "10/2 4:00 PM ET"
+   "mkt_time": "10/5 10:02 AM ET"
   },
   {
    "symbol": "NVDA",
-   "price": 233.95,
-   "chg_pct": 1.34,
-   "prev_close": 225.07,
+   "price": 237.26,
+   "chg_pct": 1.42,
+   "prev_close": 228.86,
    "spark": [
-    228.86,
     227.21,
     228.38,
     230.86,
-    233.95
+    233.95,
+    237.26
    ],
-   "mkt_time": "10/2 4:00 PM ET"
+   "mkt_time": "10/5 10:02 AM ET"
   },
   {
    "symbol": "AAPL",
-   "price": 333.69,
-   "chg_pct": 1.02,
-   "prev_close": 341.07,
+   "price": 333.46,
+   "chg_pct": -0.07,
+   "prev_close": 338.4,
    "spark": [
-    338.4,
     329.4,
     333.02,
     330.32,
-    333.69
+    333.69,
+    333.46
    ],
-   "mkt_time": "10/2 4:00 PM ET"
+   "mkt_time": "10/5 10:02 AM ET"
   },
   {
    "symbol": "MSFT",
-   "price": 517.53,
-   "chg_pct": 0.92,
-   "prev_close": 516.17,
+   "price": 527.89,
+   "chg_pct": 2.0,
+   "prev_close": 509.22,
    "spark": [
-    509.22,
     508.96,
     512.9,
     512.8,
-    517.53
+    517.53,
+    527.89
    ],
-   "mkt_time": "10/2 4:00 PM ET"
+   "mkt_time": "10/5 10:02 AM ET"
   },
   {
    "symbol": "META",
-   "price": 728.08,
-   "chg_pct": 0.3,
-   "prev_close": 751.66,
+   "price": 738.97,
+   "chg_pct": 1.5,
+   "prev_close": 715.62,
    "spark": [
-    715.62,
     738.79,
     725.18,
     725.93,
-    728.08
+    728.08,
+    738.97
    ],
-   "mkt_time": "10/2 4:00 PM ET"
+   "mkt_time": "10/5 10:02 AM ET"
   },
   {
    "symbol": "AMZN",
-   "price": 251.52,
-   "chg_pct": 1.32,
-   "prev_close": 249.67,
+   "price": 251.72,
+   "chg_pct": 0.08,
+   "prev_close": 246.15,
    "spark": [
-    246.15,
     246.67,
     249.15,
     248.23,
-    251.52
+    251.52,
+    251.72
    ],
-   "mkt_time": "10/2 4:00 PM ET"
+   "mkt_time": "10/5 10:02 AM ET"
   },
   {
    "symbol": "GOOGL",
-   "price": 343.5,
-   "chg_pct": 1.55,
-   "prev_close": 343.92,
+   "price": 344.6,
+   "chg_pct": 0.32,
+   "prev_close": 342.75,
    "spark": [
-    342.75,
     340.92,
     344.08,
     338.24,
-    343.5
+    343.5,
+    344.6
    ],
-   "mkt_time": "10/2 4:00 PM ET"
+   "mkt_time": "10/5 10:03 AM ET"
   },
   {
    "symbol": "TSLA",
-   "price": 370.59,
-   "chg_pct": 4.65,
-   "prev_close": 372.11,
+   "price": 375.8,
+   "chg_pct": 1.41,
+   "prev_close": 357.45,
    "spark": [
-    357.45,
     352.84,
     354.81,
     354.11,
-    370.59
+    370.59,
+    375.8
    ],
-   "mkt_time": "10/2 4:00 PM ET"
+   "mkt_time": "10/5 10:03 AM ET"
   },
   {
    "symbol": "AMD",
-   "price": 633.91,
-   "chg_pct": 2.95,
-   "prev_close": 630.63,
+   "price": 627.59,
+   "chg_pct": -1.0,
+   "prev_close": 607.87,
    "spark": [
-    607.87,
     607.57,
     611.76,
     615.73,
-    633.91
+    633.91,
+    627.59
    ],
-   "mkt_time": "10/2 4:00 PM ET"
+   "mkt_time": "10/5 10:03 AM ET"
   }
  ],
  "news": [
   {
-   "headline": "Stocks rise Friday after soft jobs data, Nvidia leads Nasdaq to intraday record",
+   "headline": "Stock futures fall to kick off week as traders eye bond yields and oil: Live updates",
    "source": "CNBC",
-   "time": "4:20 PM",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JVkxRTDJXTzczbVFZVDBDb3NJTmZjRW1TdzVVeUFUbkFVV0RKMDdxSDVtb2ZOU2R1NzFqT2kwem9MOTRsbUdZTUZ2a3ctYXNRN2lWYXdycU10YVBIdVk3a2VVa3FrMjlUZjVHOUVDZ3BPTGFNOGZKQ9IBfkFVX3lxTE1GWVluaGw5M2xYLV9aZ0dYX19YSDJxNXlYcFdLakUwQ3FYSTFDQnJkNWlNUGFGSDRjZXcwWDR3NFllbXg5UzA1V1BWYlgwYlVaYTZFRHB0ZWRIeHp5akduM3RlMnR3TTFBR3RoZjh0SmtnSDVtM2s1OVZENVU2Zw?oc=5"
+   "time": "8:18 AM",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14VDVsamdsUnFobnR2dUhqeUtZLU55WEdZS0RzN2lfc3FrRFVkSThpUUhZY0tPWC1aYlhRaGZWZjB5emNuX0s2MElWZWxib1o4YmVfM1FxTlVWdWlvdlhDc0MwNndMVTIzVkw1VHgtem02cE1qMHJB0gF8QVVfeXFMUHJkb21SZF96VE41OFdxSDB6aDZtUURVcC13NXZpLUtHZVdmZ3ZwaFVNX2pmSVFXS2hmbS1JWjk0RlZ0azY0M3Atc3dWVVg0bHJ4dkVsbHpaY285cXJIOEVrUVhYYTU0bm1DWjlKb01DdjhQVnk1NERMb3I2QQ?oc=5"
+  },
+  {
+   "headline": "Stock market today: Dow, S&P 500, Nasdaq futures drift lower amid markets' cautious optimism",
+   "source": "Yahoo Finance",
+   "time": "5:00 AM",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNHgtZ2d5c21HRS1fbXA0bXRubUtlZG5XbkZlekx3ZGQ3VE81M2dhM0xZM3RYb2lhUEk3X3RRVlZrZU54OEtsMGhpUUMxUmNJREM4aWlpVzNXTHluQUo4NERacnFHOXM0NmJJNVlHc1JXeTNuR21kZ21tRlVWemZJUG43UkJldDQyVGJFNGdaT3lpb2xXZzlXLU51SUM3cjdHQjNZbERidXoxaEk?oc=5"
+  },
+  {
+   "headline": "Stock Market Today: Dow Opens Lower, Dollar Strengthens as Investors Look for Safety \u2014 Live Updates",
+   "source": "WSJ",
+   "time": "9:44 AM",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3NQQk5xNzUwYnp3OXVHcUQxLTBXOWJpNEl5VXRpT1M3SGg4R18wdlN2U1dvNzB5dVVISWNEN3BBQ1hqa2xaU1RSdHRzZ3BPWGlYMXVhemk0WERlWHlMX0FOSGdiazhPc0VVd0tTQ2J4dmU3czR2emVzWW10MFRtNVBTYnBBblU?oc=5"
+  },
+  {
+   "headline": "U.S. stocks hold near their records after oil prices swing lower",
+   "source": "Pittsburgh Post-Gazette",
+   "time": "9:56 AM",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWpEc1BaRHNBME4tSXJDWVhaSE1yM28xY3pSTHBIdDBMNHJCNUo1aUd2dVpGZ2ZJZTZ3aGxNaUo0Q3dYcXR3cFlmZEFRY3Qwd2cyVWNjajY1Tk0xWk9mTzNmMUl3Y2NRQmtaY19EbnBEVVR2bW9LWGxBdS1Cb0J2T0lZa3V5Yi1FMEpkYjduMkthaEZsbml3LTBBMzdRTFA1ZXY4N1FLU29kRzQzUWc?oc=5"
+  },
+  {
+   "headline": "Stock Market Today (Oct. 5, 2026): S&P 500 moves higher, yields higher ahead of Fed minutes release",
+   "source": "Yahoo Finance",
+   "time": "9:55 AM",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb0N1SnlPM04yWkQtWURSOXJDeWptRTFIc1hQYnFCMUJGS2lpTGhsM3NQR0ZZc3Q3UTV3QXFqODlZMzBRQTg4ejZybFE3VnNGWTdpY20walBBSFBYWFcza3pqdnNNWThiUldncTg3U2RaMjR0cWRMbTd3T0wxSnhpbkdhQjhPWno4UnFWNUNaVTZiN1k?oc=5"
+  },
+  {
+   "headline": "Anthropic expected to IPO despite market uncertainty, AI slowdown calls",
+   "source": "CNN",
+   "time": "5:00 AM",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BdEczbUY5VGdZTlMtYm9HeVFjZWlfZzZrYTd3ZE1ydl9hNDA2bFRDR0FQV3lfTzRoQ3lxQlRRM0dJY1E5NENuVVFzT3c2ZU9iZktHLWdZbnJ3bmdNREJpd01Ua0Z3Vl8xVFJPS2JrM3UxYTI5?oc=5"
+  },
+  {
+   "headline": "Panmure Liberum forecasts S&P 500 falling to 5,000, warns bull run nearing end",
+   "source": "Reuters",
+   "time": "4:08 AM",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHNwMURMMFJ3ek5yWWJWRkUwY3h0N0ZPbC1sTDFfYU5mNVFKWjBiajdNc2lBcmFfTGdYaGNSUkl6aWtJSXo4UGtPemFCaFFmRjZJNGtnaUxEVFFWTUc2OE1kQjBrSXZQcG93S0xfdjhYdHY0b3hSd2dmNVVfRUF4VXNta3NlVFdJX24xT09LSFlYWHE2Y1BJdFYxdktCaEVPZmdMZjNhZTUxekRZWmVvWERwWmZYNE5L?oc=5"
+  },
+  {
+   "headline": "Stocks Drift as Europe\u2019s Woes Dent Risk Appetite: Markets Wrap",
+   "source": "Bloomberg.com",
+   "time": "6:17 PM",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWJDUVRzYUlBRnk5dlZhbXFrZWxWRFBaOGFpSFM2VFpramhJU0NITWVsSW96SkZKNVpicWxCNFg4d0FlVWNHTk84ZWFQTUQyMVdaRnFLUWN5WE1raElPU0xDbkZxeWdEODhIZFlpNk8tTG9fdHRuaGRYRHhtbkxudXZMZnFtczZXZTVCQ2QyX1BVX2NGX3dCOUJEZ04tNHJub3EzbWdOYjV5N1NhYWd2M1Z3aw?oc=5"
+  },
+  {
+   "headline": "Vikings Week 4 Stock Market Report",
+   "source": "Daily Norseman",
+   "time": "12:02 AM",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT1lkdkFxWnpzeUhFT05wbnN1Y2RRekxpTW9DcmtjWUdjWWdjSUpydWVKTjdoNGtQdVFjZjh4SUItaFBUdUFCRmdJUUg5UmxGQVU0RWF4SkZuNkkzOUpOSEFYTEY2VDNkOFFtUkQwUy05RUdMT1pMUGJFRUhzRTYwaTZvcE1ld2otaUFZczVtSzJSTVh2NTN1XzU2Q0lUVzg?oc=5"
+  },
+  {
+   "headline": "Is a stock market correction coming? Most Americans think so",
+   "source": "USA Today",
+   "time": "6:02 AM",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcU9XXzlBd2pHZEtnY1RXSndVRHNycnF3Ym5GYWh4aFNGcjZZaDRRTmp0SjQ5clBqN2F0YVhDS1hoQmI0OXcyNkFLblZ2cTEtYjljSlZxd3Etd0I1M05fTi1iOVlDaUx2WWNmX1B5TVVzWUR3WER0RWl6Tnc0N0hJNlM1RHdaMmR0ZlZaQV9QVGxOZld1ajYxeC11UEVkTnZGcHVNUGpCUk90NnNjX25Ldzl3Y2xxMjhp?oc=5"
+  },
+  {
+   "headline": "History Says a 10%+ Stock Market Correction Is Inevitable Eventually. Here Are 3 Dividend Stocks I'd Buy to Prepare for the Next One.",
+   "source": "Yahoo Finance",
+   "time": "9:05 AM",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcW91b3MzdGRTUlNlRzJ1VXBCdEJHWW1QbGVFRHNZck5KTGtQR3A2cS1ZcXBQWEV4cFZpMjAxbENSVVNaMUNzY3hNbkNiWFhSV0V6a2oycnlGbXNnSmtITVd3YlJVTWdIS00zUWtQS2d5U3otSS0ycTkwVHgwdDlPNEpEMHBEUm5KNjYxbEdkTG8xS1BZdldCQQ?oc=5"
+  },
+  {
+   "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
+   "source": "CNBC",
+   "time": "8:59 AM",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaE1jd183Z3M0Ny1pczN2Zi03WU9vbEwzc0dwaGNXd1JoaGNrcmppX3dubTZBNVZzSlZ4RTlUQTM0YXdMbXhWRHJZeUZyQ1EzYTdIV0RubmZYd1V0Y0pseHV2YVVrcEI2NDJYZ21xZ05pVkhIaVQ5dkVneFYwQU1HMnl0N1A3dEVFaWx0Y0V1M2xJOTRhM3daOHdGUXBJbXd6dnVXcHhZRFA3MnJLeWY4SkdB?oc=5"
   },
   {
    "headline": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
@@ -307,76 +368,10 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iVFo0X183d0hLTDdCZU9jamhyTFIxY3RIWmZYNWVfQlQ2TkVPbXRuMS1rM2hEUWtrOU8xRjBQWlV1MHMtRWFqWWVlSXIzOEtnRE9ua3l1NEpSaFFRcGZndTkwU2xUU2pLZ19ISjJ0alE5Mk50enlNZHYyb1c?oc=5"
   },
   {
-   "headline": "A Scary Stock Market Divided Has Opened Up. Where It Goes Next.",
-   "source": "Barron's",
-   "time": "8:57 AM",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTWhnM3FLLUlFaE9XMmNYSVV3amVLUGtIU0d4a3E0OFFlcXQxaW5NLWFXZG4xUVVvTXZYUUZBalltRVJSYzJfOHJfVXlBdHIyaWNwWnhLV1NQVzZjRHFlWkExeFp1NGd0eE5lQi1OdjVvYzAwcEtxbHAzbkY5aVVCTw?oc=5"
-  },
-  {
-   "headline": "Stock market today: Dow, S&P 500, Nasdaq stage comeback as Treasury yields fall, chip stocks gain",
-   "source": "Yahoo Finance",
-   "time": "4:07 PM",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUW1SdnZIaGtFb1lNWHNpaXFsQ0gyUVhIZ3djcEV2YzlCVExrcFNhMG9ObXZQZDgxQk1ReVd6TGhaY2hUbmhLQ2xMSUx5S2lyYi15dXEtd2hkR2I0Yy1kdFVvQXZNeUl4cTlJZ1NkdzlHWkxhMXMwaVZEcE9DMVcwVnItcXRIOExzenBEeEFMc1NSa1NnUFk5T0xpWm9KaE45Ni1vMTVkdEk?oc=5"
-  },
-  {
-   "headline": "Turkey: Stock market scandal hits half a million investors",
-   "source": "DW.com",
-   "time": "5:02 PM",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOFVhR2NodzNwbjJNTzFGVXNQVENmNjFzT21VVUZmenZ0RUdhS3JERUdRc1RMTjUxVFZ1eDdmdlBXamFodmJkelJiTlNSRHMzTU9kdzhwenpSNERCc0JtV2Y4OUEyX1d6YmdXSnhkNVhveDN0d3RrbE1kVzdCaktVUURCazUwdlphMWZ5ZzJGNWRLTm9f0gGUAUFVX3lxTFBKZTRyRjNZekdPdTRHR1YwRnJ1UjFFSHdtTFhmLVE1WjZnT1lsRVBEdGdMeTF3a1dxU0hlbDgySDRGbFhMSVg5SHpJOTdxaEtYbXNTYVVHcHotblJmUEVwejQ0SWlGT0hBa18xemVMUU9hdTlHc1luQ2tyTWpjOVBJYWhpYWo2YnFmUXJIWV9MQUtQV2s?oc=5"
-  },
-  {
-   "headline": "Weekly Market Update: Stocks Little Changed; Tech Sector Gains While Healthcare Falls",
-   "source": "Morningstar",
-   "time": "4:57 PM",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlcwdi0ycnRRMS1sNGI3X0hfVDljQ1I3dlNHeUhHSGpwOFFLeU9UcjdJREp4T19oV0JEb19vcnZjSFNUaUtySS1pLTRyQWdjOVliTmdXZjUwYmx1eHZuU1VPUWRXVnl4MnBYN29UYlpLWkE0WlRYTnlWa0REUHVpbmZkSDI0aTlSUTF6QU5tRXhEVXhxSzliZ2xxaGJjTzFGVERYeTZoRXRjeW5PZUNfUTZUV1ZwQ2NPVlg0?oc=5"
-  },
-  {
-   "headline": "October could be a huge month for the stock market. Here's why.",
-   "source": "Fox Business",
-   "time": "5:10 PM",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2ZnSEZfejhXUV9tc0c2dzJzbW9YNmRZVzQxd0pDT3kxMWxhY05kY1FIWEpNZk9DY0ZLTUg4QS0tT0lSaVVweW14VFM3dV82SGstdVRFcHpzYm1HXzV1bUx2Mm5Id2xwTWxxUU93UW1DTFNEZDNyRlJjRk5aampWQWtCS0l0WjZZSlhSWlZwQjBfUzZ2Z0xTclBKZ3TSAaIBQVVfeXFMTjY1ME1IalMyM3VUTVlkWGxxY3JjS2Zfalg3TWV6V042b3NYVy1kdWhRVXh0QTZPY3ZSQXJWYU44dGFoQWFXNy1fdm4yWFZNOThCbHM3Q3lkMFkweU9lam5lQ2VaQnJwOVBQbjFvbHc0djBOTGhWVmlYQ3dmLVJYY2NoUGtyVXhMakYzT3UwMU54RW9XR2FRblI3X3VoMlNyZVB3?oc=5"
-  },
-  {
-   "headline": "If the Stock Market Crashes, Young Investors in Their 20s Might Want to Buy This Nasdaq ETF and Hold It Until Retirement",
-   "source": "The Motley Fool",
-   "time": "9:49 AM",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa3o5TEF2RGl5Nko2bkFGcm1PMzBnSno0SHZBZk1NbGJ1Ql9Pa1JRVWR6MGRVVFl1RnJlcE0yTllVbmctY0xMTnM5aF9lQ1R6RlV2YUNadVFiVFpEeFFjTlVidU5BMHJIbVBFUUd3VEdHX2tRS2hMMnRhd0tfQmlfNnA4MkhBZnB4UVFEYzdCU2FibENOUUc5Tg?oc=5"
-  },
-  {
-   "headline": "Swings in the bond market shake stock markets worldwide, as AI optimism supports Wall Street",
-   "source": "AP News",
-   "time": "5:36 PM",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTEwb09rWU9TWmVQdGp3TkQ2b2MzRzU3bnoySi0tSUVGaFMzVFI2WmZHckpkTUlSV1JNejF6aFRTaWVlQ0tLUFBiTTNacEJSMHk1RGdyTHpMMndCU2Zyb1NuVXI3bUxCWG4yZ3NaUVQ1OHlCXy1CNEgyRVZsdDN5X0s3eXBKX2ZDLUFvdWFLb3BsNVduVUE?oc=5"
-  },
-  {
-   "headline": "Exclusive-Key ShinyHunters hacker detained in Jordan, is cooperating, sources say By Reuters",
-   "source": "Investing.com",
-   "time": "1:00 PM",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUzU1ZjA4Sm9tVG1aMmJvenJ2ajd6Vk1NcVliZm5UT2otWUZYQ09NeUlXa0VjRWxzU2FVNF9NU3RtT3JQYjhSZkl2UGVWX29xMG5UN2ZjSHZVQlRWU2JlUFJaclhiLWswZHBrZ1FKNmJ4ZmVObk9XRXluZUl2cFNXdEVOSlFLZFpRWm5fdm0wUFBRcFg5TGwxdlVkR3N6YkZDWTIxeUhadTQ4NVF2djhTdlRqQkJHQTlUQVNGZGR1bFMwcHlQVmFIcm40eTBpZl90?oc=5"
-  },
-  {
-   "headline": "AI Is Squeezing Out the Rest of the Stock Market",
-   "source": "WSJ",
-   "time": "7:00 PM",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRnpIZVhVTnV4Ung1cnczNTlVREtiRGFaUEpzUUw3cGg2T2Vaa1I3MHNJTi1kR0tjaGpVQ2dVamtab25vN3dtSWZmYnpTS242TjQwbHJiM1lmSmMxRER2ZXpBbkw1Njg1YnYzeGs3RDNnWUk3OTJ3bjhSNjhzeG9SUTE0c2kycTl4V0lSVGNQblc1NDllVmpUWDNPSQ?oc=5"
-  },
-  {
-   "headline": "Are we soon to see a crashing stock market?",
-   "source": "Yahoo Finance UK",
-   "time": "2:41 AM",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPXzhOakJxRmJLOEZSaDZFRlMwWmF5UGZKR0NVdkJ2aVV3U3JzeGJMbW11dl9hNWV2OTVFZGozUEJiUkxMNTdIQTNyRlJlbC1wZmlwRVZCYVBLb3JoYVAzWlVrbHRZZ2tmSUNpTW9Tb3o3LUFlWi1RVkV1VDk3YWZaa3BYT2Vadw?oc=5"
-  },
-  {
-   "headline": "More swings for bond yields rattle financial markets worldwide",
-   "source": "PBS",
-   "time": "1:28 PM",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdjVnUHRMT1hta0t4WHB0RzAzWFEyQUxQTVE3VW9SWVpEZEo5TURhQWRpNXlZR0M1VWhnVUxNWDZtV0pEajQyekQ4dzVQdUF5WDNQWHBCZTd1VlZlalRNMHdPT2FFS3A1VWN4c01qVHQ5U1NPelhTS0d3S1NmY1lvSTU1OTFzZXdCMDBxM1I1RVhhWk1iNGV1c3lfSUFCbGh20gGmAUFVX3lxTE9lcFBsc051bnpGQ0o1QjVuTEtySko2ZW1DOXRNQWlYVG1sQ2d3RDZaSU1rZUdRMVp3TTB6WUtzaEdzRWhEQ1FzM3piYWJEVWhPazlmcFEzWlVGSFZBVFJVQ2Q2UmxGY1IwV2dJTGhxU0w2NU9Yckp2bGFvSDZhdGh6MnlhY0V3VzNTLUxwM2ppUVZuYjRreWJ3ajJPNlZ5dm1rNkJTaWc?oc=5"
-  },
-  {
-   "headline": "Schwab Initiates Secondary Listing on the Texas Stock Exchange",
-   "source": "Charles Schwab Press Releases",
-   "time": "8:30 AM",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdE84MFZ6Mkw4RUp1MjNuMENqSkI1UENaYmpSU0JPaGFQdlVyenlGRFdLc1Q1Q05XLVdodVNsdTFOVWViNEp4TXRFc0lROFkyWF8xUTM2NmJjSW00a1NwSjd3WmJaSkFTUEU2ZUpMLXFYRnZrcGZ0NU1zODJSNHJtRkg2Mk5pNDNNTFRyRUgySmxCZjlJYng2TV9YTzdzZURYMElDdEcwUlFUNUNES1hoVWZTVm9zM3pjdU9VU3AxR2N3Q3Zha1FsOUppczBhWUg4anFVVjQ5ZVpuZUk?oc=5"
+   "headline": "October is an ideal window to load up on stocks, Citadel Securities' top strategist says",
+   "source": "Business Insider",
+   "time": "9:04 AM",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcXdUNGZ1STV5anFuMWItd0xqRVBwY1hKZ3llRE0tMld0YTBtQmtNcFg1RGRDbnFWazZUR0xfOGlRdWNpTGhSeFJ1dDZkczBSNVpRQUVNdU00RDJCOUlXTDAxb1ZUcGU3UnpUTzNZMVpJUFZrWi1kM18wb1ZyQ0JkWWpQMHZEcjAyb1VSNXhob0lsdTFURzkxZGcxTHZ5VW90Y0hadV85LV9KUmtjS3JBenpoYXo?oc=5"
   }
  ],
  "disclaimer": "Delayed quotes for ambient use only. Not investment advice."
