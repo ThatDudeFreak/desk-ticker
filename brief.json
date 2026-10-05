@@ -1,1 +1,27 @@
-{"generated_at":"10/5 3:21 PM ET","items":[{"move":2.66,"ticker":"TSLA","why":"Still riding Friday's better than expected Q3 delivery beat: 486,532 vehicles against roughly 462,000 expected. Momentum carried into Monday ahead of the Oct 21 earnings report."},{"move":2.39,"ticker":"NVDA","why":"Foxconn posted record September quarter revenue, up 47% year over year, signaling strong demand for AI servers housing Nvidia chips. The stock pushed toward a record high."},{"move":2.12,"ticker":"MSFT","why":"Melius Research upgraded the stock to Buy with a $665 target, calling Microsoft the trusted 'adults in charge' of enterprise AI amid safety fears around frontier models."},{"move":-2.24,"ticker":"CL=F","why":"No single headline; moving with the broader tape. Crude futures slipped toward $90 a barrel as equities rallied and demand chatter stayed muted."}],"market_note":"Nasdaq hit a fresh record as tech led; 10Y yield held near a 24-year high.","summary":"Big tech carried the tape Monday, with the Nasdaq setting a fresh intraday record while oil slid. Investors mostly shrugged off the 10-year Treasury touching its highest yield in 24 years."}
+{
+ "generated_at": "10/5 3:51 PM ET",
+ "summary": "Stocks are pushing toward record highs as investors shrug off a fresh surge in bond yields. Big tech and chip names are doing the heavy lifting, with Nvidia trading at an all-time high.",
+ "market_note": "Nasdaq led by AI names; oil is the lone laggard as the S&P 500 and Nasdaq hover near record territory into the close.",
+ "items": [
+  {
+   "ticker": "TSLA",
+   "move": 2.42,
+   "why": "Extending Friday's pop after Q3 deliveries of 486,532 beat the 450,000 to 460,000 consensus. IMC Logistics also ordered 50 Tesla Semis for Q4 delivery."
+  },
+  {
+   "ticker": "NVDA",
+   "move": 2.39,
+   "why": "Trading at an all-time high as market cap closes in on $6 trillion, part of the AI trade powering the Nasdaq to record highs."
+  },
+  {
+   "ticker": "META",
+   "move": 2.02,
+   "why": "Riding a multi-day AI rally on reports of a new in-house AI chip and expanded Muse AI capacity; BofA reiterated its Buy rating."
+  },
+  {
+   "ticker": "CL=F",
+   "move": -2.32,
+   "why": "No single headline; moving with the broader tape."
+  }
+ ]
+}
