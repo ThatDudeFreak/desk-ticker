@@ -1,1 +1,27 @@
-{"generated_at":"10/5 11:25 AM ET","items":[{"move":2.45,"ticker":"META","why":"Extending Friday's 6% rally on reports Meta will begin manufacturing its custom AI chip, codenamed Iris, in September. BofA reiterated its Buy rating and $835 price target."},{"move":1.97,"ticker":"TSLA","why":"Riding Friday's Q3 delivery beat: 486,532 vehicles topped the roughly 456,000 consensus, and the stock is holding those gains ahead of Oct 21 earnings."},{"move":1.83,"ticker":"MSFT","why":"Upgraded to Buy at Melius Research on Monday with the price target raised to 665, calling Microsoft the trusted leader in AI security for enterprises."},{"move":1.35,"ticker":"NVDA","why":"Testing all-time highs, per Yahoo Finance coverage, with chip names including Nvidia flagged as Monday's movers in Barron's market coverage."}],"market_note":"S&P and Nasdaq futures higher, 10-year yield ticking up toward new highs.","summary":"Big tech is leading Monday's tape, with Meta, Tesla and Microsoft all climbing while the Dow slips. Rising Treasury yields are pressuring blue chips as growth names take the lead."}
+{
+  "generated_at": "10/5 11:53 AM ET",
+  "summary": "Big tech is carrying the tape: the S&P 500 and Nasdaq are higher while the Dow slips as the 10-year yield climbs back over 5.3%. AI names are catching bids on fresh analyst optimism and strong supplier data.",
+  "market_note": "Monday open: S&P and Nasdaq futures pointed up, Dow roughly flat; bond yields and oil in focus this week.",
+  "items": [
+    {
+      "ticker": "META",
+      "move": 2.31,
+      "why": "Extending last week's AI-driven rally after reports of a new in-house AI chip and expanding compute capacity; Friday's pop pushed the stock above its 200-day moving average for the first time in months."
+    },
+    {
+      "ticker": "TSLA",
+      "move": 1.85,
+      "why": "Riding Friday's pop after Q3 deliveries of 486,532 beat Wall Street estimates of roughly 450,000 to 460,000, with analysts citing strength despite the expired federal EV tax credit."
+    },
+    {
+      "ticker": "MSFT",
+      "move": 1.75,
+      "why": "Melius Research upgraded the stock to Buy with a $665 target, calling Microsoft the trusted 'adult in charge' of enterprise AI as safety fears steer customers toward its governance and security tools."
+    },
+    {
+      "ticker": "NVDA",
+      "move": 1.22,
+      "why": "Chasing a record high after AI server partner Foxconn reported September-quarter revenue up 47% year over year, signaling AI hardware demand keeps booming."
+    }
+  ]
+}
