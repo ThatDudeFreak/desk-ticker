@@ -1,27 +1,27 @@
 {
-  "generated_at": "10/6 1:21 PM ET",
-  "summary": "Stocks are at record highs, with the S&P 500 and Nasdaq touching all-time highs as AI names rally and bond yields retreat.",
-  "market_note": "Index futures pointed higher through the morning, with the S&P future up 0.68% midday.",
+  "generated_at": "10/6 1:55 PM ET",
+  "summary": "Tech led Tuesday's session higher, with S&P futures up 0.7% and chip names running on fresh AI demand. AMD hit a new record after Citi raised its target to $800, while small caps lagged the mega-cap move.",
+  "market_note": "Futures green across the board: S&P +0.68%, Nasdaq +0.68%, Dow +0.46%. Gold up 0.83% to 4,191.30 while VIX fell 2.64%.",
   "items": [
     {
       "ticker": "AMD",
-      "move": 3.57,
-      "why": "Citi raised its target to $800 from $575 and Mizuho to $705 from $580, citing agentic AI demand; CEO Lisa Su said AMD will substantially boost chip supply in 2027."
-    },
-    {
-      "ticker": "^VIX",
-      "move": -2.51,
-      "why": "Calm follows records: with the S&P 500 at all-time highs and yields retreating, the fear gauge is sliding on broad risk-on sentiment."
+      "move": 3.72,
+      "why": "Citi hiked its price target to a Street-high $800 today, citing AI agent demand, while Mizuho raised to $705. CEO Lisa Su said in Taiwan that AMD will substantially increase chip supply in 2027 on very high demand."
     },
     {
       "ticker": "AMZN",
-      "move": 1.5,
-      "why": "Prime Big Deal Days start today with 48 hours of discounts, and Goldman added Amazon to its Conviction List as the AI infrastructure trade stays hot."
+      "move": 1.75,
+      "why": "No single headline; moving with the broader tape."
     },
     {
       "ticker": "MSFT",
-      "move": 1.28,
-      "why": "Riding the AI-led record run; no company-specific headline, moving with the broader tape."
+      "move": 1.18,
+      "why": "Melius Research upgraded Microsoft to Buy with a $665 target, calling it the adults in charge of AI, and Scotiabank raised its target to $615. The stock is near record highs after its best quarter since 1998."
+    },
+    {
+      "ticker": "IWM",
+      "move": -0.58,
+      "why": "No single headline; moving with the broader tape."
     }
   ]
 }
