@@ -1,26 +1,21 @@
 {
-  "generated_at": "10/6 1:55 PM ET",
-  "summary": "Tech led Tuesday's session higher, with S&P futures up 0.7% and chip names running on fresh AI demand. AMD hit a new record after Citi raised its target to $800, while small caps lagged the mega-cap move.",
-  "market_note": "Futures green across the board: S&P +0.68%, Nasdaq +0.68%, Dow +0.46%. Gold up 0.83% to 4,191.30 while VIX fell 2.64%.",
+  "generated_at": "10/6 2:23 PM ET",
+  "summary": "Stocks are at record highs as bond yields retreat and oil slips. Tech and chip names are leading, with sentiment clearly risk on.",
+  "market_note": "S&P 500 and Nasdaq in record territory; VIX down about 3% on the day.",
   "items": [
     {
       "ticker": "AMD",
-      "move": 3.72,
-      "why": "Citi hiked its price target to a Street-high $800 today, citing AI agent demand, while Mizuho raised to $705. CEO Lisa Su said in Taiwan that AMD will substantially increase chip supply in 2027 on very high demand."
-    },
-    {
-      "ticker": "AMZN",
-      "move": 1.75,
-      "why": "No single headline; moving with the broader tape."
+      "move": 3.74,
+      "why": "Hit a fresh high after Citi called Meta's Muse a win for the chipmaker, reinforcing AMD's AI chip demand story."
     },
     {
       "ticker": "MSFT",
-      "move": 1.18,
-      "why": "Melius Research upgraded Microsoft to Buy with a $665 target, calling it the adults in charge of AI, and Scotiabank raised its target to $615. The stock is near record highs after its best quarter since 1998."
+      "move": 1.14,
+      "why": "Melius Research upgraded the stock to Buy from Hold on Oct 5 with a $665 price target, calling Microsoft the adults in charge of AI."
     },
     {
-      "ticker": "IWM",
-      "move": -0.58,
+      "ticker": "AMZN",
+      "move": 1.93,
       "why": "No single headline; moving with the broader tape."
     }
   ]
