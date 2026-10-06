@@ -1,27 +1,27 @@
 {
-  "generated_at": "10/6 12:52 PM ET",
-  "summary": "Stocks are up across the board Tuesday as the AI rally extended and oil prices eased. Chip stocks led the tape, with AMD hitting another record on fresh analyst price target hikes tied to Meta's Muse AI agent boom.",
-  "market_note": "S&P futures up 0.72%, VIX down 3% to 15.04 as risk appetite returns.",
+  "generated_at": "10/6 1:21 PM ET",
+  "summary": "Stocks are at record highs, with the S&P 500 and Nasdaq touching all-time highs as AI names rally and bond yields retreat.",
+  "market_note": "Index futures pointed higher through the morning, with the S&P future up 0.68% midday.",
   "items": [
     {
       "ticker": "AMD",
-      "move": 4.05,
-      "why": "Citi raised its target to $800 and Mizuho to $705, saying Meta's Muse agent boom will drive massive chip demand. CEO Lisa Su said AMD will substantially boost supply in 2027."
-    },
-    {
-      "ticker": "AMZN",
-      "move": 1.62,
-      "why": "Prime Big Deal Days kicked off Tuesday with 48 hours of discounts. Shares also kept momentum from its Sept 30 nuclear power deal with Constellation."
-    },
-    {
-      "ticker": "MSFT",
-      "move": 1.39,
-      "why": "Melius upgraded Microsoft to Buy with a $665 target, calling it AI's 'adults in charge'; Scotiabank raised its target to $615. Azure grew 43% in fiscal Q4."
+      "move": 3.57,
+      "why": "Citi raised its target to $800 from $575 and Mizuho to $705 from $580, citing agentic AI demand; CEO Lisa Su said AMD will substantially boost chip supply in 2027."
     },
     {
       "ticker": "^VIX",
-      "move": -3.09,
-      "why": "Falling as the S&P and Nasdaq rally, with the AI trade and easing oil lifting the broader market."
+      "move": -2.51,
+      "why": "Calm follows records: with the S&P 500 at all-time highs and yields retreating, the fear gauge is sliding on broad risk-on sentiment."
+    },
+    {
+      "ticker": "AMZN",
+      "move": 1.5,
+      "why": "Prime Big Deal Days start today with 48 hours of discounts, and Goldman added Amazon to its Conviction List as the AI infrastructure trade stays hot."
+    },
+    {
+      "ticker": "MSFT",
+      "move": 1.28,
+      "why": "Riding the AI-led record run; no company-specific headline, moving with the broader tape."
     }
   ]
 }
