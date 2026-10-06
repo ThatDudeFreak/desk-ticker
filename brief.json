@@ -1,22 +1,27 @@
 {
-  "generated_at": "10/6 2:23 PM ET",
-  "summary": "Stocks are at record highs as bond yields retreat and oil slips. Tech and chip names are leading, with sentiment clearly risk on.",
-  "market_note": "S&P 500 and Nasdaq in record territory; VIX down about 3% on the day.",
+  "generated_at": "10/6 2:51 PM ET",
+  "summary": "Stocks touched fresh record highs Tuesday as AI names led the tape and bond yields retreated. Chipmakers were the standout, with AMD notching new highs on bullish analyst calls.",
+  "market_note": "S&P futures up 0.68%, gold added 0.95%, and the VIX fell 3% as fear faded.",
   "items": [
     {
       "ticker": "AMD",
-      "move": 3.74,
-      "why": "Hit a fresh high after Citi called Meta's Muse a win for the chipmaker, reinforcing AMD's AI chip demand story."
+      "move": 3.64,
+      "why": "Citi hiked its price target to a Street-high $800 from $575, calling AMD the key beneficiary of AI agent demand from Meta's Muse; CEO Lisa Su said the company will substantially increase chip supply in 2027."
     },
     {
-      "ticker": "MSFT",
-      "move": 1.14,
-      "why": "Melius Research upgraded the stock to Buy from Hold on Oct 5 with a $665 price target, calling Microsoft the adults in charge of AI."
+      "ticker": "^VIX",
+      "move": -3.03,
+      "why": "The S&P 500 and Nasdaq touched all-time highs as stocks powered higher and bond yields retreated, squeezing the fear gauge lower."
     },
     {
       "ticker": "AMZN",
-      "move": 1.93,
-      "why": "No single headline; moving with the broader tape."
+      "move": 1.86,
+      "why": "Prime Big Deal Days kicked off (Oct 6-7), and the stock is riding its Sept 30 nuclear power deal with Constellation Energy plus reports of an $8B Nvidia chip financing arrangement."
+    },
+    {
+      "ticker": "MSFT",
+      "move": 1.03,
+      "why": "Melius Research upgraded the stock to Buy from Hold, calling Microsoft the 'adults in charge' of AI, with a $665 target; Scotiabank also raised its target to $615 from $510."
     }
   ]
 }
