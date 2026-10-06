@@ -1,1 +1,27 @@
-{"generated_at":"10/6 12:25 PM ET","items":[{"move":3.99,"ticker":"AMD","why":"Citi raised its price target to $800 from $575 and Mizuho to $705, citing Meta's Muse AI agent as a huge driver of chip demand. CEO Lisa Su said AMD will substantially increase supply in 2027."},{"move":1.55,"ticker":"AMZN","why":"Prime Big Deal Days kicked off today and run through Oct 7 across 22 countries, pulling attention to the retail engine just as coverage debates whether the stock is due for a big rally."},{"move":1.33,"ticker":"MSFT","why":"Melius Research upgraded the stock to Buy with a $665 target, calling Microsoft the 'adults in charge' of AI as enterprises seek trusted platforms amid growing AI safety concerns."},{"move":-2.19,"ticker":"^VIX","why":"No single headline; the fear gauge fell as equities hit record highs with the Nasdaq notching its 23rd record close of the year."}],"market_note":"Futures faded midday; VIX eased 2.19% as fear gauge demand dropped with equities at highs.","summary":"Record-setting day. The S&P 500 hit a new high as falling oil prices and easing Treasury yields lifted stocks, and the AI trade stayed in charge with chips and mega caps leading."}
+{
+  "generated_at": "10/6 12:52 PM ET",
+  "summary": "Stocks are up across the board Tuesday as the AI rally extended and oil prices eased. Chip stocks led the tape, with AMD hitting another record on fresh analyst price target hikes tied to Meta's Muse AI agent boom.",
+  "market_note": "S&P futures up 0.72%, VIX down 3% to 15.04 as risk appetite returns.",
+  "items": [
+    {
+      "ticker": "AMD",
+      "move": 4.05,
+      "why": "Citi raised its target to $800 and Mizuho to $705, saying Meta's Muse agent boom will drive massive chip demand. CEO Lisa Su said AMD will substantially boost supply in 2027."
+    },
+    {
+      "ticker": "AMZN",
+      "move": 1.62,
+      "why": "Prime Big Deal Days kicked off Tuesday with 48 hours of discounts. Shares also kept momentum from its Sept 30 nuclear power deal with Constellation."
+    },
+    {
+      "ticker": "MSFT",
+      "move": 1.39,
+      "why": "Melius upgraded Microsoft to Buy with a $665 target, calling it AI's 'adults in charge'; Scotiabank raised its target to $615. Azure grew 43% in fiscal Q4."
+    },
+    {
+      "ticker": "^VIX",
+      "move": -3.09,
+      "why": "Falling as the S&P and Nasdaq rally, with the AI trade and easing oil lifting the broader market."
+    }
+  ]
+}
