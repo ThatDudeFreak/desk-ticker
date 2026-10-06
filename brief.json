@@ -1,1 +1,27 @@
-{"generated_at":"10/5 4:23 PM ET","items":[{"move":2.2,"ticker":"TSLA","why":"Follow-through after Friday's Q3 deliveries beat of 486,532 vehicles, plus IMC Logistics ordering 50 Tesla Semis today. Broader tech strength helped."},{"move":2.12,"ticker":"NVDA","why":"Hit an all-time high as its market cap closes in on $6 trillion, per Yahoo Finance. Barron's notes Nvidia and Intel are now leading the market dynamic."},{"move":-1.91,"ticker":"CL=F","why":"Saudi Aramco cut November Arab Light pricing to Asia as Middle East crude exports recovered, while G7 nations planned strategic stockpile releases, per the WSJ."},{"move":1.9,"ticker":"META","why":"Extending its AI-driven rally on reports of a custom \"Iris\" AI chip entering manufacturing, expanded computing capacity, and a new AI model. It crossed its 200-day moving average."}],"market_note":"S&P and Nasdaq futures are green (+0.67% and +0.85%); Nasdaq closed at a record high.","summary":"The Nasdaq hit a record high as mega-cap tech led the way despite bond yields reaching fresh highs. Tesla and Nvidia paced the gainers while oil slid on recovering Middle East supply."}
+{
+ "generated_at": "10/6 9:52 AM ET",
+ "summary": "Stocks are pushing higher Tuesday, with the Nasdaq fresh off a record close Monday as investors keep betting on the AI boom. Futures are green and Treasury yields are easing off multi-year highs.",
+ "market_note": "Index futures up across the board with oil slipping and yields cooling ahead of earnings season.",
+ "items": [
+  {
+   "ticker": "CL=F",
+   "move": -1.68,
+   "why": "Oil fell as resilient Middle East exports and a G7 emergency reserve release eased supply concerns, Reuters reported, with Brent dipping below $100 despite Houthi attacks on Saudi targets."
+  },
+  {
+   "ticker": "AMD",
+   "move": 1.34,
+   "why": "Citi raised its price target to $800 from $575, citing Meta Muse AI agent demand as a big new chip catalyst, while CEO Lisa Su said AMD will substantially increase 2027 shipments."
+  },
+  {
+   "ticker": "NVDA",
+   "move": 1.32,
+   "why": "Nvidia helped carry the Nasdaq to a record high Monday as investors kept betting on the AI boom; Reuters reports the chip giant is now valued at $5.8 trillion."
+  },
+  {
+   "ticker": "MSFT",
+   "move": 1.32,
+   "why": "Microsoft was one of the heavyweights powering Monday record Nasdaq close on AI boom bets, with futures pointing higher again Tuesday ahead of earnings season."
+  }
+ ]
+}
