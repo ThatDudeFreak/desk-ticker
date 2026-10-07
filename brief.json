@@ -1,1 +1,27 @@
-{"generated_at":"10/7 10:53 AM ET","items":[{"move":4.46,"ticker":"^VIX","why":"Volatility jumped as stocks slid on rising bond yields and oil prices. The 10 year yield hit its highest level since 2002 and Brent neared $102 after tanker attacks in the Strait of Hormuz."},{"move":-4.19,"ticker":"BTC-USD","why":"Bitcoin slipped under $84,000 as higher oil, yields and a stronger dollar pressured risk assets. About $550 million in leveraged crypto longs were liquidated in 24 hours, amplifying the move."},{"move":-2.16,"ticker":"META","why":"Dropped with the broader tech complex as rising yields pushed the market lower. No single headline; moving with the broader tape."},{"move":-1.48,"ticker":"TSLA","why":"An EU vote on Full Self Driving approval was delayed to December, cooling hopes for more subscription revenue. The stock gave back part of its recent three day run."}],"market_note":"Fed minutes from the September meeting arrive later today; traders have mostly priced out another October hike.","summary":"Yields are the story again. The 10 year hit its highest level since 2002 and oil neared $102 on Strait of Hormuz tanker attacks, pushing stocks lower. The Dow fell about 500 points while Bitcoin dropped under $84,000."}
+{
+ "generated_at": "10/7 11:25 AM ET",
+ "summary": "Stocks are sliding mid-morning as the 10-year Treasury yield hit a fresh 24-year high, with the Dow down about 500 points. The spike in yields is pressuring growth stocks and consumer spending expectations.",
+ "market_note": "Fed September meeting minutes land this afternoon, plus oil near $90 on Middle East supply fears.",
+ "items": [
+  {
+   "ticker": "VIX",
+   "move": 4.53,
+   "why": "Volatility spiked as stocks sold off on the 24-year high in 10-year yields; Dow futures dropped over 1%. Fear gauges rise when equity desks de-risk."
+  },
+  {
+   "ticker": "BTC-USD",
+   "move": -3.31,
+   "why": "Slipped below $84,000 after Iran escalated attacks on tankers in the Strait of Hormuz, sending Brent above $101 and lifting yields and the dollar, per CoinDesk."
+  },
+  {
+   "ticker": "META",
+   "move": -2.1,
+   "why": "No single headline; moving with the broader tech tape as rising yields punish high-multiple AI names. Fraud-scam ad chatter around the stock is not helping."
+  },
+  {
+   "ticker": "IWM",
+   "move": -1.53,
+   "why": "Small caps lagging the broad market as higher rates bite; Goldman warned pressure from rising rates will drag on consumer spending."
+  }
+ ]
+}
