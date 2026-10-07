@@ -1,1 +1,27 @@
-{"generated_at":"10/7 2:51 PM ET","items":[{"move":-2.47,"ticker":"BTC-USD","why":"Iran stepped up attacks on tankers in the Strait of Hormuz, pushing Brent above $101 and lifting yields and the dollar. About $546M in leveraged crypto longs got liquidated and spot ETFs saw outflows."},{"move":-1.83,"ticker":"META","why":"No single headline; falling with the broad selloff as 10-year yields near 24-year highs punish growth names, with lingering jitters over its heavy AI capex spending."},{"move":1.29,"ticker":"AMZN","why":"No single headline; bucking the selloff as money rotates into large-cap quality while rising yields pressure the rest of the tape."},{"move":-1.12,"ticker":"IWM","why":"The 10-year yield surge hits small caps hardest since they carry more floating-rate debt. The Russell 2000 fell toward correction territory, down 1.3% today."}],"market_note":"Fed September meeting minutes due later today; traders watching for hints of another rate hike.","summary":"Stocks are pulling back from record highs as Treasury yields climb to a 24-year high and oil tops $100. The Dow is off about 500 points, with small caps taking the worst of it."}
+{
+  "generated_at": "10/7 3:21 PM ET",
+  "summary": "Stocks are pulling back from yesterday's record highs as the 10-year Treasury yield hit a 24-year high. Oil spiked on attacks on tankers in the Strait of Hormuz, rattling risk assets including crypto.",
+  "market_note": "Index futures point to a soft finish; traders are watching the Fed meeting minutes due later today.",
+  "items": [
+    {
+      "ticker": "BTC-USD",
+      "move": -2.56,
+      "why": "Bitcoin broke below $84,000 as the Hormuz attacks pushed oil above $101 and lifted Treasury yields and the dollar. Failed rallies near $87,000 triggered about $547M in long liquidations."
+    },
+    {
+      "ticker": "META",
+      "move": -2.13,
+      "why": "Meta was the only Magnificent Seven stock to fall on Tuesday's AI rally and it is sliding again today, caught in the broader pullback as rising yields pressure growth stocks."
+    },
+    {
+      "ticker": "AMD",
+      "move": -1.42,
+      "why": "AMD is cooling off after Tuesday's near 3% pop to a record on Citi and Mizuho price target hikes. Profit-taking is hitting chip stocks as Treasury yields climb."
+    },
+    {
+      "ticker": "AMZN",
+      "move": 1.27,
+      "why": "Amazon is extending yesterday's run, when it led the Magnificent Seven up nearly 2%, riding AI optimism and bullish analyst chatter around AWS growth."
+    }
+  ]
+}
