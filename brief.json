@@ -1,1 +1,27 @@
-{"generated_at":"10/6 4:22 PM ET","items":[{"move":2.8,"ticker":"AMD","why":"Citi raised its price target to $800 from $575 on AI agent demand tied to Meta's Muse, and Mizuho lifted its target to $705. CEO Lisa Su said AMD will substantially increase chip supply in 2027."},{"move":-3.35,"ticker":"^VIX","why":"The fear gauge slid as the S&P 500 set a new record high and Treasury yields backed off multi-year peaks, cooling demand for downside hedges."},{"move":1.95,"ticker":"AMZN","why":"No single headline; moving with the broader tape. Megacaps rose as dipping Treasury yields and softer oil lifted the market ahead of earnings season, per Reuters."},{"move":0.96,"ticker":"GC=F","why":"Gold rebounded from a two-month low as the 10-year yield eased off its 24-year high near 5.35% and the dollar retreated, per Gold Eagle and the WSJ."}],"market_note":"Yields pulled back from a 24-year high and oil fell, giving stocks room to run into earnings season.","summary":"The S&P 500 set a new record high Tuesday as Treasury yields dipped from multi-year highs and oil retreated, lifting stocks ahead of earnings season. Chip stocks led on fresh analyst targets while the VIX slid."}
+{
+  "generated_at": "10/7 9:52 AM ET",
+  "summary": "Stocks are lower this morning as the 10-year Treasury yield hit its highest level since 2002 and oil prices rose on Middle East tensions, pressuring growth and tech stocks.",
+  "market_note": "Dow off about 400 points in early trading; Fed minutes land this afternoon.",
+  "items": [
+    {
+      "ticker": "META",
+      "move": -2.19,
+      "why": "Profit-taking after a strong week on AI chip and Muse news, now giving back ground as rising yields weigh on tech."
+    },
+    {
+      "ticker": "AMD",
+      "move": -1.26,
+      "why": "Chip stocks under pressure as the bond yield spike makes growth valuations less attractive across the tape."
+    },
+    {
+      "ticker": "IWM",
+      "move": -1.0,
+      "why": "Small caps sliding with the broader market as higher yields and rising oil lift costs and dampen risk appetite."
+    },
+    {
+      "ticker": "TSLA",
+      "move": -0.94,
+      "why": "No single headline; moving with the broader tape as indexes fall on yields and oil."
+    }
+  ]
+}
