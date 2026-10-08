@@ -1,27 +1,27 @@
 {
-  "generated_at": "10/8 1:54 PM ET",
-  "summary": "Stocks are lower midday with the Nasdaq leading the declines as chip stocks sell off and oil surges. Risk-off mood with bond yields at 24-year highs and the VIX climbing.",
-  "market_note": "Risk-off tape: oil up sharply, yields at 24-year highs, VIX higher.",
-  "items": [
-    {
-      "ticker": "AMD",
-      "move": -4.45,
-      "why": "Down with a broad chip stock selloff that has the Nasdaq lagging the S&P 500 and Dow today."
-    },
-    {
-      "ticker": "CL=F",
-      "move": 3.57,
-      "why": "Crude is surging and pressuring stocks, part of the risk-off mix alongside jumping bond yields."
-    },
-    {
-      "ticker": "BTC-USD",
-      "move": -3.1,
-      "why": "No single headline; moving with the broader tape as risk assets pull back on the oil and yield spike."
-    },
-    {
-      "ticker": "NVDA",
-      "move": -2.87,
-      "why": "Swept up in the chip stock selloff that is dragging the Nasdaq lower midday."
-    }
-  ]
+ "generated_at": "10/8 2:22 PM ET",
+ "summary": "Stocks are lower Thursday afternoon. Chipmakers are selling off on AI caution, and a jump in oil is adding pressure across markets.",
+ "market_note": "S&P futures down 0.65%, Nasdaq futures down 1.53%: a risk-off tilt into the close.",
+ "items": [
+  {
+   "ticker": "CL=F",
+   "move": 4.29,
+   "why": "Oil surged on a report of Iran strike plans, per CoinDesk, and Bloomberg says the oil jump is pressuring both stocks and bonds."
+  },
+  {
+   "ticker": "AMD",
+   "move": -3.96,
+   "why": "Chip stocks are selling off after the Financial Times reported OpenAI's annualized revenue is about $20B below earlier signals, rattling AI-linked names."
+  },
+  {
+   "ticker": "NVDA",
+   "move": -2.76,
+   "why": "Down with the chip complex as AI caution spreads; Yahoo's midday note flags the chip-led drag on the Nasdaq."
+  },
+  {
+   "ticker": "BTC-USD",
+   "move": -2.54,
+   "why": "Bitcoin fell as oil jumped on the Iran strike-plan report, with spot ETF outflows and heavy long liquidations adding pressure."
+  }
+ ]
 }
