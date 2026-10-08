@@ -1,1 +1,27 @@
-{"generated_at":"10/8 2:51 PM ET","items":[{"move":-4.42,"ticker":"AMD","why":"The Financial Times reported OpenAI's annualized revenue is about $20B lower than previously signaled, and chip suppliers sold off hard on the news. AMD fell alongside Intel, Marvell and Sandisk."},{"move":3.66,"ticker":"CL=F","why":"A fresh tanker attack in the Persian Gulf plus hurricane-driven production cuts in the Gulf of Mexico lifted Brent crude about 4% toward its highest close since mid-September, reviving inflation worries."},{"move":-3.09,"ticker":"NVDA","why":"The FT's report on OpenAI's smaller-than-expected annualized revenue pressured AI-linked chip stocks. Higher oil prices and elevated Treasury yields also weighed on high-growth names."},{"move":4.3,"ticker":"^VIX","why":"Stocks slipped for a second day on the oil surge and the AI pullback, lifting the VIX as investors priced in more near-term volatility."}],"market_note":"Crude jumped on the tanker attack; chip stocks slid after the FT's OpenAI revenue report.","summary":"Stocks fell for a second day as a Persian Gulf tanker attack pushed oil up about 4% and rekindled inflation worries. Chip stocks led the slide after the Financial Times reported OpenAI's annualized revenue is much lower than previously signaled."}
+{
+  "generated_at": "10/8 3:22 PM ET",
+  "summary": "Stocks slid midday as an AI sell-off weighed on the Nasdaq after disappointing OpenAI revenue details, and surging oil prices added fresh inflation fears. Volatility rose and bitcoin fell as risk appetite drained.",
+  "market_note": "Nasdaq down on AI caution; crude jumps on Hormuz tanker attacks; 10Y Treasury near 5.3%.",
+  "items": [
+    {
+      "ticker": "^VIX",
+      "move": 3.78,
+      "why": "Volatility climbed as stocks slid on AI caution after disappointing OpenAI revenue details, plus fresh selling spurred by rising oil prices."
+    },
+    {
+      "ticker": "CL=F",
+      "move": 3.53,
+      "why": "Crude jumped as Iranian attacks in the Strait of Hormuz hit record levels, slashing tanker traffic, while Hurricane Isais threatened Gulf Coast production."
+    },
+    {
+      "ticker": "BTC-USD",
+      "move": -2.24,
+      "why": "Bitcoin fell as rising Treasury yields and oil-driven inflation fears triggered risk-off selling; spot ETFs saw $484.9M in outflows on Oct 7."
+    },
+    {
+      "ticker": "NQ=F",
+      "move": -1.58,
+      "why": "Nasdaq fell under AI sell-off pressure after OpenAI revenue details disappointed, with analysts debating whether the AI rally is a bubble."
+    }
+  ]
+}
