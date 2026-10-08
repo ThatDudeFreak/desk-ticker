@@ -1,1 +1,27 @@
-{"generated_at":"10/8 10:21 AM ET","items":[{"move":4.39,"ticker":"CL=F","why":"A record 10 tankers were struck in the Strait of Hormuz between Sep 28 and Oct 4, choking traffic, and Hurricane Isais forced Gulf Coast producers to curtail output. Reports of possible resumed US operations against Iran added to supply fear."},{"move":2.06,"ticker":"^VIX","why":"Volatility rose as stocks slipped for a second day after record highs, with oil and yields spiking."},{"move":-1.45,"ticker":"TSLA","why":"Record Q3 deliveries beat forecasts, but investors worried the rush was pulled forward by the federal EV tax credit expiring at the end of September. A delayed EU vote on Full Self-Driving approval also weighed."},{"move":-1.21,"ticker":"AMD","why":"AI chip stocks fell as rising oil and a 10-year yield near 5.30% pulled investors from growth names. Even strong TSMC revenue results were ignored amid bond-yield and crude concerns."}],"market_note":"WTI surging on Strait of Hormuz tanker attacks and a Gulf hurricane; 10Y yield near 5.30%.","summary":"Stocks slipped Thursday as oil jumped more than 4% to above $92, reviving inflation fears and pushing the 10-year yield toward a 24-year high. AI-linked chip stocks led the decline."}
+{
+  "generated_at": "10/8 10:51 AM ET",
+  "summary": "Stocks are trading lower across the board as surging oil prices and rising Treasury yields revive inflation worries. Chip stocks are leading the retreat even though TSMC and Samsung reported strong AI demand.",
+  "market_note": "Oil up over 4 percent to $92; Fed minutes and Pepsi earnings due today.",
+  "items": [
+    {
+      "ticker": "AMD",
+      "move": -1.37,
+      "why": "Falling with chip peers as rising oil and Treasury yields overshadow strong TSMC and Samsung results that would normally lift semiconductor stocks."
+    },
+    {
+      "ticker": "TSLA",
+      "move": -1.27,
+      "why": "Pressured by reports that the EU vote on Full Self-Driving approval slipped from October to December, delaying new subscription revenue and Tesla's European robotaxi plans."
+    },
+    {
+      "ticker": "IWM",
+      "move": -0.75,
+      "why": "Small caps are getting hit as rising oil and bond yields revive inflation fears, with the Fed minutes due later today adding to the caution."
+    },
+    {
+      "ticker": "AMZN",
+      "move": -0.52,
+      "why": "No single headline; moving with the broader tape."
+    }
+  ]
+}
