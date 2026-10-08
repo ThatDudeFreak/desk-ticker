@@ -1,1 +1,27 @@
-{"generated_at":"10/8 1:23 PM ET","items":[{"move":-4.66,"ticker":"AMD","why":"Down with the chip complex. Higher bond yields weighed on semiconductors today, with Samsung, Micron, Taiwan Semi and Sandisk in focus, per Investor's Business Daily."},{"move":-3.08,"ticker":"BTC-USD","why":"Oil jumping on the Iran strike-plan report and rising Treasury yields spooked risk assets, while about $550 million in leveraged crypto bets were liquidated, per CoinDesk."},{"move":-2.93,"ticker":"NVDA","why":"Fell after hitting a record close of $239.24 on Tuesday. Higher bond yields pressured semis, and the stock kept fading Thursday morning, per Barron's."},{"move":-2.27,"ticker":"TSLA","why":"Big Tech was broadly lower as rising oil prices and bond yields spooked investors. Barron's also flagged Wall Street nerves over Tesla's secrecy around the Optimus robot."}],"market_note":"S&P futures down ~0.6%, Nasdaq futures down ~1.3%, oil up ~3%, VIX up 6%.","summary":"Risk-off Thursday. Oil spiked on reports the White House asked the Pentagon for Iran strike options, reviving inflation fears, while rising Treasury yields pressured chips and megacaps. Bitcoin broke below $83K as $550M in leveraged crypto longs were liquidated."}
+{
+  "generated_at": "10/8 1:54 PM ET",
+  "summary": "Stocks are lower midday with the Nasdaq leading the declines as chip stocks sell off and oil surges. Risk-off mood with bond yields at 24-year highs and the VIX climbing.",
+  "market_note": "Risk-off tape: oil up sharply, yields at 24-year highs, VIX higher.",
+  "items": [
+    {
+      "ticker": "AMD",
+      "move": -4.45,
+      "why": "Down with a broad chip stock selloff that has the Nasdaq lagging the S&P 500 and Dow today."
+    },
+    {
+      "ticker": "CL=F",
+      "move": 3.57,
+      "why": "Crude is surging and pressuring stocks, part of the risk-off mix alongside jumping bond yields."
+    },
+    {
+      "ticker": "BTC-USD",
+      "move": -3.1,
+      "why": "No single headline; moving with the broader tape as risk assets pull back on the oil and yield spike."
+    },
+    {
+      "ticker": "NVDA",
+      "move": -2.87,
+      "why": "Swept up in the chip stock selloff that is dragging the Nasdaq lower midday."
+    }
+  ]
+}
