@@ -1,1 +1,27 @@
-{"generated_at":"10/9 1:21 PM ET","items":[{"move":-1.61,"ticker":"AAPL","why":"Caught in the AI trade stumble after reports that OpenAI revenue came in below expectations; the Nasdaq fell on the news before partially recovering."},{"move":2.19,"ticker":"MSFT","why":"Riding the afternoon tech rebound as the S&P 500 approaches a fresh record and the Nasdaq climbs back from midday lows."},{"move":2.1,"ticker":"TSLA","why":"No single headline; moving with the broader tape as indexes rise and tech stocks recover into the afternoon."},{"move":2.41,"ticker":"AMZN","why":"No single headline; moving with the broader tape as the S&P nears a record high and megacap tech bounces."}],"market_note":"Dow up around 400 points; VIX down 3.4 percent as fear fades.","summary":"Stocks are climbing into the afternoon with the S&P 500 near a record high, even as the AI trade wobbled on news that OpenAI revenue came in below expectations."}
+{
+  "generated_at": "10/9 1:53 PM ET",
+  "summary": "Stocks rebounded Friday, with tech names recovering from Thursday's AI-driven selloff. The Dow gained nearly 400 points as oil prices eased on cooling Mideast supply fears.",
+  "market_note": "Indexes poised for weekly gains; big-bank earnings kick off next week.",
+  "items": [
+    {
+      "ticker": "AMZN",
+      "move": 2.69,
+      "why": "Retook its 50-day moving average as investors positioned ahead of Q3 earnings, with analysts calling the valuation attractive on AWS strength."
+    },
+    {
+      "ticker": "MSFT",
+      "move": 2.27,
+      "why": "Bernstein reiterated Outperform with a $641 target, pushing back on AI capex fears, while SaaS names saw broad dip buying."
+    },
+    {
+      "ticker": "TSLA",
+      "move": 2.12,
+      "why": "Record Cybercab registrations in Texas and a Tigress Buy reiteration with a $550 target kept momentum going."
+    },
+    {
+      "ticker": "^VIX",
+      "move": -3.44,
+      "why": "Fear gauge fell as stocks rose, tech rebounded, and easing oil prices reflected calmer Mideast supply fears."
+    }
+  ]
+}
