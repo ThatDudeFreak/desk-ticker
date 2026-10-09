@@ -1,1 +1,27 @@
-{"generated_at":"10/9 10:51 AM ET","items":[{"move":3.46,"ticker":"TSLA","why":"Rising as Musk asserts control over the Terafab chip project, plus a Tigress Buy reiteration with a $550 target ahead of Oct 21 earnings; also trading in tandem with SpaceX after its spectrum deal."},{"move":2.34,"ticker":"AMZN","why":"Riding the broad megacap rebound as futures gain on easing oil prices and optimism over an AI-driven earnings season; AMZN contributed roughly a quarter of the Dow's morning jump."},{"move":1.95,"ticker":"MSFT","why":"No single headline; moving with the broader tape."},{"move":-1.93,"ticker":"AAPL","why":"Nikkei reported Apple told suppliers to cut iPhone 18 Pro component orders about 15 percent for October on soft demand, with price hikes blamed on soaring memory chip costs."}],"market_note":"Futures gained early on lower oil and AI optimism; the VIX is falling and gold is climbing toward $4,207.","summary":"Stocks are rebounding Friday as oil prices ease and tech shares recover from the sell-off, putting the S&P 500 and Nasdaq on track for weekly gains. Trump's pledge of no Iran strike before the midterms eased geopolitical jitters."}
+{
+  "generated_at": "10/9 11:22 AM ET",
+  "summary": "Indexes are higher Friday morning as tech rebounds from the OpenAI revenue scare selloff, with oil slipping after Trump vowed no Iran strike before the midterms.",
+  "market_note": "S&P 500 and Nasdaq on track for weekly gains; telecoms sinking after SpaceX agreed to buy a nationwide wireless spectrum portfolio.",
+  "items": [
+    {
+      "ticker": "TSLA",
+      "move": 2.44,
+      "why": "September was Tesla's best China sales month this year at 95,366 wholesale units per CPCA data, plus Tigress reiterated a Buy rating with a $550 target."
+    },
+    {
+      "ticker": "AMZN",
+      "move": 2.31,
+      "why": "No single headline; riding the broad megacap rebound with AI stocks recovering from yesterday's OpenAI revenue scare, helping lead the Dow's morning rally per MarketWatch."
+    },
+    {
+      "ticker": "MSFT",
+      "move": 2.0,
+      "why": "Microsoft launched the Surface Laptop Ultra powered by Nvidia's RTX Spark chip for running AI models locally, announced today."
+    },
+    {
+      "ticker": "AAPL",
+      "move": -1.59,
+      "why": "Nikkei reported Apple cut October iPhone 18 Pro and Pro Max component orders 15-20% on soft demand, with suppliers blaming price hikes amid memory chip costs."
+    }
+  ]
+}
