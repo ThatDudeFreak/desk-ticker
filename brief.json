@@ -1,27 +1,27 @@
 {
-  "generated_at": "10/9 3:21 PM ET",
-  "summary": "Stocks are higher across the board this afternoon, with the Dow up about 1% and tech recovering as oil prices fall. The VIX is down nearly 4%, a sign of easing anxiety into the close.",
-  "market_note": "Indexes holding gains late in the session; Dow futures up 1.01% and VIX at 14.83.",
+  "generated_at": "10/9 3:51 PM ET",
+  "summary": "Wall Street is ending the week on a strong note, with the Dow up around 500 points and tech rebounding as the OpenAI revenue scare that hammered AI names yesterday fades. Microsoft is flirting with a $4 trillion market cap as confidence in Azure and AI returns comes back.",
+  "market_note": "VIX down 3.6% as calm returns; bonds closed Monday for Columbus Day while stocks trade normally.",
   "items": [
     {
       "ticker": "AMZN",
-      "move": 3.06,
-      "why": "AWS growth accelerated to 37% and management raised 2026 capex to about $220 billion, backing the AI buildout. Buyers are piling in ahead of Q3 earnings on Oct 29."
+      "move": 3.4,
+      "why": "Bouncing back with the broader tech recovery. Analysts reaffirmed Buy ratings this week, including a $385 target from Tigress, on AWS momentum and the OpenAI cloud partnership."
     },
     {
       "ticker": "MSFT",
-      "move": 2.58,
-      "why": "Microsoft is closing in on a $4 trillion market cap for the first time in nearly a year. Investors are renewing optimism on cloud growth and returns from its AI spending, with the stock up over 50% from its June low."
-    },
-    {
-      "ticker": "TSLA",
-      "move": 2.42,
-      "why": "Tesla registered a record 150 additional Cybercabs in Texas, nearly doubling its fleet, and Musk is asserting control over the Terafab chip project. Tigress also reiterated a Buy rating with a $550 target."
+      "move": 2.46,
+      "why": "Closing in on a $4 trillion market cap for the first time in nearly a year, per MarketWatch, as investors re-embrace Azure growth and rising returns on AI spending."
     },
     {
       "ticker": "AMD",
-      "move": -1.64,
-      "why": "CEO Lisa Su shared supply news with investors today, per Yahoo Finance, weighing on the stock while the broader tech tape recovers."
+      "move": -2.19,
+      "why": "Caught in the continuing chip selloff after the Financial Times reported OpenAI revenue came in $20 billion below what was signaled, weighing on AI-linked semiconductors."
+    },
+    {
+      "ticker": "^VIX",
+      "move": -3.63,
+      "why": "Fear gauge sliding as stocks surge and the Dow adds about 500 points. No single headline; moving with the broader tape."
     }
   ]
 }
