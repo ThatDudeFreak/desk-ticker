@@ -1,1 +1,27 @@
-{"generated_at":"10/9 2:51 PM ET","items":[{"move":-3.5,"ticker":"^VIX","why":"Volatility gauge dropped as indexes climbed; the Dow added 400 points and stocks were poised for weekly gains. Telecom names sank on SpaceX spectrum news."},{"move":2.88,"ticker":"AMZN","why":"Rallying with the broader tape as analysts view the valuation as attractive ahead of Q3 earnings on Oct 29, with AWS growth set to offset heavy AI spending."},{"move":2.7,"ticker":"MSFT","why":"Climbing toward a $4 trillion market cap and near its all-time high as investors refocus on healthy cloud growth, AI returns, and Copilot adoption."},{"move":2.54,"ticker":"TSLA","why":"Musk clarified control over the Terafab chip project while Texas Cybercab registrations nearly doubled overnight; Tigress reiterated a Buy with a $550 target."}],"market_note":"Stocks up across the board; gold extending gains while oil holds above $90.","summary":"Wall Street pushed higher Friday with the Dow up 400 points, leaving indexes poised for weekly gains. Tech recovered its footing, energy stayed strong, and telecoms slumped as SpaceX advanced its wireless plans."}
+{
+  "generated_at": "10/9 3:21 PM ET",
+  "summary": "Stocks are higher across the board this afternoon, with the Dow up about 1% and tech recovering as oil prices fall. The VIX is down nearly 4%, a sign of easing anxiety into the close.",
+  "market_note": "Indexes holding gains late in the session; Dow futures up 1.01% and VIX at 14.83.",
+  "items": [
+    {
+      "ticker": "AMZN",
+      "move": 3.06,
+      "why": "AWS growth accelerated to 37% and management raised 2026 capex to about $220 billion, backing the AI buildout. Buyers are piling in ahead of Q3 earnings on Oct 29."
+    },
+    {
+      "ticker": "MSFT",
+      "move": 2.58,
+      "why": "Microsoft is closing in on a $4 trillion market cap for the first time in nearly a year. Investors are renewing optimism on cloud growth and returns from its AI spending, with the stock up over 50% from its June low."
+    },
+    {
+      "ticker": "TSLA",
+      "move": 2.42,
+      "why": "Tesla registered a record 150 additional Cybercabs in Texas, nearly doubling its fleet, and Musk is asserting control over the Terafab chip project. Tigress also reiterated a Buy rating with a $550 target."
+    },
+    {
+      "ticker": "AMD",
+      "move": -1.64,
+      "why": "CEO Lisa Su shared supply news with investors today, per Yahoo Finance, weighing on the stock while the broader tech tape recovers."
+    }
+  ]
+}
