@@ -1,1 +1,27 @@
-{"generated_at":"10/13 4:21 PM ET","items":[{"move":2.63,"ticker":"META","why":"Truist raised its price target to $1,000 from $763, citing momentum from the new Muse Wonder AI models ahead of Oct. 21 earnings."},{"move":1.9,"ticker":"AMD","why":"No single headline; moving with the broader tape."},{"move":1.02,"ticker":"CL=F","why":"Oil rose as a proposed Russia-Ukraine energy ceasefire failed to take hold, keeping geopolitical supply worries in focus."},{"move":0.97,"ticker":"NVDA","why":"Nvidia held up better than many chip peers, shaking off Broadcom CEO caution about AI spending and Microsoft unveiling its Maia 300 chip."}],"market_note":"Futures were little changed after the close, with Nasdaq futures down slightly.","summary":"Stocks ended mixed as chip weakness weighed on the Nasdaq while Meta led megacaps higher. Oil rose on geopolitical supply worries."}
+{
+  "generated_at": "10/14 9:55 AM ET",
+  "summary": "Stocks are lower at the open after a hotter-than-expected CPI report lifted bond yields and rate-hike bets. Chip stocks are leading the decline while bank earnings roll in.",
+  "market_note": "Futures and indexes soft; 10-year yields surging on the CPI surprise, Fed beige book on deck this afternoon.",
+  "items": [
+    {
+      "ticker": "AMD",
+      "move": -3.04,
+      "why": "Chip stocks are falling across the tape: memory-chip names are extending declines and ASML is down, and AMD is the steepest decliner on the watchlist."
+    },
+    {
+      "ticker": "TSLA",
+      "move": -2.45,
+      "why": "Slipping with the broader risk-off tape after hot CPI data; eyes turn to Thursday evening's rescheduled Roadster livestream event."
+    },
+    {
+      "ticker": "META",
+      "move": -1.56,
+      "why": "No single headline; moving with the broader tape as mega-caps sell off on rate-hike bets after the hot inflation report."
+    },
+    {
+      "ticker": "NVDA",
+      "move": -1.49,
+      "why": "Down with the chip sector, which Yahoo Finance flagged as falling at the open alongside memory-chip stocks extending their declines."
+    }
+  ]
+}
