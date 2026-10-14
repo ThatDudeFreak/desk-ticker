@@ -1,27 +1,27 @@
 {
-  "generated_at": "10/14 9:55 AM ET",
-  "summary": "Stocks are lower at the open after a hotter-than-expected CPI report lifted bond yields and rate-hike bets. Chip stocks are leading the decline while bank earnings roll in.",
-  "market_note": "Futures and indexes soft; 10-year yields surging on the CPI surprise, Fed beige book on deck this afternoon.",
+  "generated_at": "10/14 10:22 AM ET",
+  "summary": "Stocks slipped Wednesday morning as a hot inflation reading sent Treasury yields higher, pressuring tech and chip names while the Dow held up. AAPL bucked the trend after its smart home product announcements.",
+  "market_note": "Nasdaq futures down about 1% mid-morning; the VIX climbed to near 16 and the 10-year yield traded around 5.2%.",
   "items": [
     {
       "ticker": "AMD",
-      "move": -3.04,
-      "why": "Chip stocks are falling across the tape: memory-chip names are extending declines and ASML is down, and AMD is the steepest decliner on the watchlist."
-    },
-    {
-      "ticker": "TSLA",
-      "move": -2.45,
-      "why": "Slipping with the broader risk-off tape after hot CPI data; eyes turn to Thursday evening's rescheduled Roadster livestream event."
+      "move": -3.54,
+      "why": "Memory and chip stocks extended declines for a third straight day after Chinese firm CXMT claimed a breakthrough in memory-chip production, weighing on the semiconductor ETF."
     },
     {
       "ticker": "META",
-      "move": -1.56,
-      "why": "No single headline; moving with the broader tape as mega-caps sell off on rate-hike bets after the hot inflation report."
+      "move": -2.25,
+      "why": "Goldman Sachs cut its price target to $762 from $860, flagging pressure on 2027 operating expenses from AI spending, while UBS and Guggenheim raised theirs on new AI revenue opportunities."
     },
     {
-      "ticker": "NVDA",
-      "move": -1.49,
-      "why": "Down with the chip sector, which Yahoo Finance flagged as falling at the open alongside memory-chip stocks extending their declines."
+      "ticker": "TSLA",
+      "move": -2.13,
+      "why": "Shares dipped as investors digested self-driving news, including the departure of Uber's autonomous mobility president, ahead of Tesla's Roadster reveal event on October 15."
+    },
+    {
+      "ticker": "AAPL",
+      "move": 1.15,
+      "why": "Rising after unveiling a smart home lineup including the HomeView hub and HomePod mini 2, a day after hitting an intraday record under new CEO John Ternus."
     }
   ]
 }
