@@ -1,1 +1,27 @@
-{"generated_at":"10/15 1:51 PM ET","items":[{"move":-2.9,"ticker":"AMD","why":"Caught in a global chipmaker selloff, with reports of a $1 trillion wipeout across AI chip names as doubts grow about AI investment returns."},{"move":2.88,"ticker":"CL=F","why":"Crude rallied after an unexpectedly large U.S. inventory draw, while attacks near the Strait of Hormuz keep a geopolitical risk premium in prices."},{"move":-1.48,"ticker":"NVDA","why":"Pulled down with the broader AI chip selloff as investors rotate out of the AI trade; reports flag cracks forming in the AI-driven market."},{"move":-1.43,"ticker":"TSLA","why":"Slid with high-beta tech as sticky inflation lifted rate fears, while analysts doubt the Roadster debut will do much for near-term earnings."}],"market_note":"Treasury yields sinking as markets digest a hot wholesale inflation print.","summary":"Rotation day on Wall Street: investors are dumping AI chip names and buying blue chips, with the Dow up about 400 points while the Nasdaq slides. A big crude inventory draw and sinking Treasury yields are steering the tape."}
+{
+  "generated_at": "10/15 2:21 PM ET",
+  "summary": "Dow and S&P are climbing while the Nasdaq slips, as investors rotate out of AI-exposed tech names and into safer corners. Falling Treasury yields are cushioning the sell-off and giving the Dow a lift.",
+  "market_note": "Divergence day: Dow futures up while Nasdaq futures sag, as the tech rotation continues into the afternoon.",
+  "items": [
+    {
+      "ticker": "AMD",
+      "move": -3.42,
+      "why": "Chip stocks are selling off as investors question AI spending; CNN reports the global chipmaker sell-off is deepening as enthusiasm for AI stocks wobbles."
+    },
+    {
+      "ticker": "CL=F",
+      "move": 2.77,
+      "why": "WTI is climbing after the EIA reported an unexpected 8.6 million barrel crude draw, with Hurricane Isaias shutting in Gulf output and Hormuz shipping risks supporting prices, per the WSJ."
+    },
+    {
+      "ticker": "NVDA",
+      "move": -1.95,
+      "why": "The NYT reports tech stocks are dropping further amid doubts over AI spending, and the chipmaker sell-off is hitting AI-exposed names like Nvidia hardest."
+    },
+    {
+      "ticker": "^TNX",
+      "move": -1.95,
+      "why": "The 10-year yield is falling as Treasuries rally, with investors seeking shelter from the AI-stock turbulence, per the FT; Yahoo notes yields are sinking while the Dow advances."
+    }
+  ]
+}
