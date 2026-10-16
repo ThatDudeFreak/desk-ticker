@@ -1,65 +1,65 @@
 {
- "generated_at": "10/16 3:15 PM ET",
+ "generated_at": "10/16 3:28 PM ET",
  "market_open": true,
  "tape": [
   {
    "symbol": "ES=F",
-   "price": 7685.25,
-   "chg_pct": -1.36,
+   "price": 7690.75,
+   "chg_pct": -1.29,
    "prev_close": 7858.0,
    "spark": [
     7858.0,
     7855.75,
     7770.25,
     7791.0,
-    7685.25
+    7690.75
    ],
-   "mkt_time": "10/16 3:05 PM ET",
+   "mkt_time": "10/16 3:18 PM ET",
    "label": "S&P FUT"
   },
   {
    "symbol": "NQ=F",
-   "price": 29326.75,
-   "chg_pct": -2.71,
+   "price": 29346.75,
+   "chg_pct": -2.64,
    "prev_close": 30898.25,
    "spark": [
     30898.25,
     30791.5,
     30182.75,
     30143.75,
-    29326.75
+    29346.75
    ],
-   "mkt_time": "10/16 3:05 PM ET",
+   "mkt_time": "10/16 3:18 PM ET",
    "label": "NAS FUT"
   },
   {
    "symbol": "YM=F",
-   "price": 52101.0,
-   "chg_pct": -0.63,
+   "price": 52125.0,
+   "chg_pct": -0.58,
    "prev_close": 52110.0,
    "spark": [
     52110.0,
     51935.0,
     51858.0,
     52430.0,
-    52101.0
+    52125.0
    ],
-   "mkt_time": "10/16 3:05 PM ET",
+   "mkt_time": "10/16 3:18 PM ET",
    "label": "DOW FUT"
   },
   {
    "symbol": "^VIX",
-   "price": 21.03,
-   "chg_pct": 27.75,
+   "price": 20.78,
+   "chg_pct": 26.23,
    "prev_close": 15.21,
    "spark": [
     15.21,
     15.27,
     16.87,
     16.46,
-    21.03
+    20.78
    ],
-   "mkt_time": "10/16 3:00 PM ET",
+   "mkt_time": "10/16 3:13 PM ET",
    "label": "VIX"
   },
   {
@@ -79,218 +79,218 @@
   },
   {
    "symbol": "BTC-USD",
-   "price": 81259.49,
-   "chg_pct": -1.26,
+   "price": 81496.44,
+   "chg_pct": -0.97,
    "prev_close": 81762.56,
    "spark": [
     81762.56,
     83095.12,
     81562.49,
     82141.46,
-    81259.49
+    81496.44
    ],
-   "mkt_time": "10/16 3:15 PM ET",
+   "mkt_time": "10/16 3:28 PM ET",
    "label": "BTC"
   },
   {
    "symbol": "GC=F",
-   "price": 4180.4,
-   "chg_pct": 0.25,
+   "price": 4185.3,
+   "chg_pct": 0.36,
    "prev_close": 4190.6,
    "spark": [
     4190.6,
     4177.3,
     4107.9,
     4170.1,
-    4180.4
+    4185.3
    ],
-   "mkt_time": "10/16 3:06 PM ET",
+   "mkt_time": "10/16 3:18 PM ET",
    "label": "GOLD"
   },
   {
    "symbol": "CL=F",
-   "price": 98.95,
-   "chg_pct": 2.54,
+   "price": 99.04,
+   "chg_pct": 2.63,
    "prev_close": 93.74,
    "spark": [
     93.74,
     94.14,
     95.09,
     97.97,
-    98.95
+    99.04
    ],
-   "mkt_time": "10/16 3:05 PM ET",
+   "mkt_time": "10/16 3:18 PM ET",
    "label": "OIL"
   }
  ],
  "watch": [
   {
    "symbol": "SPY",
-   "price": 763.05,
-   "chg_pct": -1.13,
+   "price": 762.79,
+   "chg_pct": -1.17,
    "prev_close": 778.57,
    "spark": [
     778.1,
     778.01,
     769.6,
     771.79,
-    763.05
+    762.79
    ],
-   "mkt_time": "10/16 3:16 PM ET"
+   "mkt_time": "10/16 3:28 PM ET"
   },
   {
    "symbol": "QQQ",
-   "price": 710.37,
-   "chg_pct": -2.42,
+   "price": 710.33,
+   "chg_pct": -2.43,
    "prev_close": 751.27,
    "spark": [
     746.04,
     743.57,
     728.95,
     728.0,
-    710.37
+    710.33
    ],
-   "mkt_time": "10/16 3:16 PM ET"
+   "mkt_time": "10/16 3:28 PM ET"
   },
   {
    "symbol": "DIA",
-   "price": 518.66,
-   "chg_pct": -0.46,
+   "price": 518.42,
+   "chg_pct": -0.51,
    "prev_close": 516.11,
    "spark": [
     517.91,
     516.21,
     515.63,
     521.18,
-    518.66
+    518.42
    ],
-   "mkt_time": "10/16 3:15 PM ET"
+   "mkt_time": "10/16 3:28 PM ET"
   },
   {
    "symbol": "IWM",
-   "price": 270.71,
-   "chg_pct": -1.59,
+   "price": 270.62,
+   "chg_pct": -1.62,
    "prev_close": 278.94,
    "spark": [
     277.9,
     276.7,
     271.37,
     275.08,
-    270.71
+    270.62
    ],
-   "mkt_time": "10/16 3:15 PM ET"
+   "mkt_time": "10/16 3:28 PM ET"
   },
   {
    "symbol": "NVDA",
-   "price": 214.49,
-   "chg_pct": -1.26,
+   "price": 215.1,
+   "chg_pct": -0.98,
    "prev_close": 229.28,
    "spark": [
     226.32,
     228.52,
     221.3,
     217.23,
-    214.49
+    215.1
    ],
-   "mkt_time": "10/16 3:16 PM ET"
+   "mkt_time": "10/16 3:28 PM ET"
   },
   {
    "symbol": "AAPL",
-   "price": 342.62,
-   "chg_pct": 0.18,
+   "price": 342.72,
+   "chg_pct": 0.21,
    "prev_close": 336.64,
    "spark": [
     340.97,
     341.27,
     342.96,
     342.0,
-    342.62
+    342.72
    ],
-   "mkt_time": "10/16 3:15 PM ET"
+   "mkt_time": "10/16 3:28 PM ET"
   },
   {
    "symbol": "MSFT",
-   "price": 526.79,
-   "chg_pct": -2.35,
+   "price": 526.18,
+   "chg_pct": -2.46,
    "prev_close": 535.07,
    "spark": [
     541.15,
     543.45,
     533.69,
     539.44,
-    526.79
+    526.18
    ],
-   "mkt_time": "10/16 3:16 PM ET"
+   "mkt_time": "10/16 3:28 PM ET"
   },
   {
    "symbol": "META",
-   "price": 704.61,
-   "chg_pct": -4.36,
+   "price": 705.93,
+   "chg_pct": -4.18,
    "prev_close": 718.67,
    "spark": [
     742.96,
     762.5,
     737.54,
     736.72,
-    704.6
+    705.93
    ],
-   "mkt_time": "10/16 3:16 PM ET"
+   "mkt_time": "10/16 3:28 PM ET"
   },
   {
    "symbol": "AMZN",
-   "price": 249.92,
-   "chg_pct": -1.9,
+   "price": 249.32,
+   "chg_pct": -2.13,
    "prev_close": 262.43,
    "spark": [
     259.53,
     258.58,
     254.08,
     254.76,
-    249.92
+    249.32
    ],
-   "mkt_time": "10/16 3:16 PM ET"
+   "mkt_time": "10/16 3:28 PM ET"
   },
   {
    "symbol": "GOOGL",
-   "price": 340.6,
-   "chg_pct": -2.47,
+   "price": 339.98,
+   "chg_pct": -2.65,
    "prev_close": 351.66,
    "spark": [
     352.72,
     353.78,
     347.64,
     349.22,
-    340.6
+    339.98
    ],
-   "mkt_time": "10/16 3:16 PM ET"
+   "mkt_time": "10/16 3:28 PM ET"
   },
   {
    "symbol": "TSLA",
-   "price": 352.81,
-   "chg_pct": -2.66,
+   "price": 351.94,
+   "chg_pct": -2.9,
    "prev_close": 382.7,
    "spark": [
     378.03,
     375.23,
     367.16,
     362.44,
-    352.81
+    351.94
    ],
-   "mkt_time": "10/16 3:16 PM ET"
+   "mkt_time": "10/16 3:28 PM ET"
   },
   {
    "symbol": "AMD",
-   "price": 532.72,
-   "chg_pct": -5.25,
+   "price": 534.34,
+   "chg_pct": -4.96,
    "prev_close": 608.1,
    "spark": [
     594.24,
     605.53,
     570.82,
     562.23,
-    532.72
+    534.34
    ],
-   "mkt_time": "10/16 3:16 PM ET"
+   "mkt_time": "10/16 3:28 PM ET"
   }
  ],
  "news": [
