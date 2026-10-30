@@ -1,296 +1,296 @@
 {
- "generated_at": "10/30 3:21 PM ET",
+ "generated_at": "10/30 3:51 PM ET",
  "market_open": true,
  "tape": [
   {
    "symbol": "ES=F",
-   "price": 7585.5,
-   "chg_pct": -2.18,
+   "price": 7593.75,
+   "chg_pct": -2.07,
    "prev_close": 7714.5,
    "spark": [
     7714.5,
     7758.25,
     7783.25,
     7754.25,
-    7585.5
+    7593.75
    ],
-   "mkt_time": "10/30 3:09 PM ET",
+   "mkt_time": "10/30 3:37 PM ET",
    "label": "S&P FUT"
   },
   {
    "symbol": "NQ=F",
-   "price": 28256.5,
-   "chg_pct": -4.42,
+   "price": 28373.75,
+   "chg_pct": -4.02,
    "prev_close": 29437.25,
    "spark": [
     29437.25,
     29812.0,
     29979.5,
     29562.0,
-    28256.5
+    28373.75
    ],
-   "mkt_time": "10/30 2:52 PM ET",
+   "mkt_time": "10/30 3:08 PM ET",
    "label": "NAS FUT"
   },
   {
    "symbol": "YM=F",
-   "price": 51816.0,
-   "chg_pct": -1.32,
+   "price": 51785.0,
+   "chg_pct": -1.38,
    "prev_close": 52550.0,
    "spark": [
     52550.0,
     52579.0,
     52696.0,
     52512.0,
-    51816.0
+    51785.0
    ],
-   "mkt_time": "10/30 3:09 PM ET",
+   "mkt_time": "10/30 3:41 PM ET",
    "label": "DOW FUT"
   },
   {
    "symbol": "^VIX",
-   "price": 22.04,
-   "chg_pct": 27.91,
+   "price": 21.08,
+   "chg_pct": 22.73,
    "prev_close": 18.39,
    "spark": [
     18.39,
     17.52,
     16.91,
     17.2,
-    22.04
+    21.08
    ],
-   "mkt_time": "10/30 2:56 PM ET",
+   "mkt_time": "10/30 3:16 PM ET",
    "label": "VIX"
   },
   {
    "symbol": "^TNX",
    "price": 4.92,
-   "chg_pct": -1.36,
+   "chg_pct": -1.48,
    "prev_close": 4.99,
    "spark": [
     4.99,
     4.99,
     5.05,
     4.99,
-    4.92
+    4.91
    ],
-   "mkt_time": "10/30 2:20 PM ET",
+   "mkt_time": "10/30 2:34 PM ET",
    "label": "10Y"
   },
   {
    "symbol": "BTC-USD",
-   "price": 76241.05,
-   "chg_pct": -5.58,
+   "price": 76722.6,
+   "chg_pct": -4.98,
    "prev_close": 80006.66,
    "spark": [
     80006.66,
     80805.08,
     81267.59,
     77775.11,
-    76241.05
+    76722.6
    ],
-   "mkt_time": "10/30 3:19 PM ET",
+   "mkt_time": "10/30 3:51 PM ET",
    "label": "BTC"
   },
   {
    "symbol": "GC=F",
-   "price": 3887.8,
-   "chg_pct": -3.56,
+   "price": 3885.2,
+   "chg_pct": -3.63,
    "prev_close": 4038.4,
    "spark": [
     4038.4,
     4074.6,
     4051.6,
     4031.4,
-    3887.8
+    3885.2
    ],
-   "mkt_time": "10/30 3:07 PM ET",
+   "mkt_time": "10/30 3:31 PM ET",
    "label": "GOLD"
   },
   {
    "symbol": "CL=F",
-   "price": 104.37,
-   "chg_pct": 2.32,
+   "price": 104.32,
+   "chg_pct": 2.27,
    "prev_close": 101.76,
    "spark": [
     101.76,
     99.9,
     102.78,
     102.0,
-    104.37
+    104.32
    ],
-   "mkt_time": "10/30 1:58 PM ET",
+   "mkt_time": "10/30 2:08 PM ET",
    "label": "OIL"
   }
  ],
  "watch": [
   {
    "symbol": "SPY",
-   "price": 751.49,
-   "chg_pct": -2.32,
+   "price": 751.4,
+   "chg_pct": -2.33,
    "prev_close": 759.97,
    "spark": [
     765.37,
     769.66,
     772.31,
     769.36,
-    751.49
+    751.4
    ],
-   "mkt_time": "10/30 2:31 PM ET"
+   "mkt_time": "10/30 2:43 PM ET"
   },
   {
    "symbol": "QQQ",
-   "price": 685.88,
-   "chg_pct": -4.12,
+   "price": 687.97,
+   "chg_pct": -3.83,
    "prev_close": 704.4,
    "spark": [
     712.2,
     721.25,
     725.61,
     715.34,
-    685.88
+    687.97
    ],
-   "mkt_time": "10/30 3:19 PM ET"
+   "mkt_time": "10/30 3:41 PM ET"
   },
   {
    "symbol": "DIA",
-   "price": 515.72,
-   "chg_pct": -1.34,
+   "price": 515.93,
+   "chg_pct": -1.3,
    "prev_close": 521.37,
    "spark": [
     522.97,
     523.28,
     524.68,
     522.73,
-    515.72
+    515.93
    ],
-   "mkt_time": "10/30 3:19 PM ET"
+   "mkt_time": "10/30 3:44 PM ET"
   },
   {
    "symbol": "IWM",
-   "price": 277.81,
-   "chg_pct": -2.18,
+   "price": 279.21,
+   "chg_pct": -1.69,
    "prev_close": 275.75,
    "spark": [
     276.99,
     280.18,
     281.29,
     284.01,
-    277.81
+    279.21
    ],
-   "mkt_time": "10/30 3:19 PM ET"
+   "mkt_time": "10/30 3:51 PM ET"
   },
   {
    "symbol": "NVDA",
-   "price": 202.8,
-   "chg_pct": -5.08,
+   "price": 202.85,
+   "chg_pct": -5.06,
    "prev_close": 210.96,
    "spark": [
     216.0,
     217.94,
     215.38,
     213.66,
-    202.8
+    202.85
    ],
-   "mkt_time": "10/30 3:05 PM ET"
+   "mkt_time": "10/30 3:23 PM ET"
   },
   {
    "symbol": "AAPL",
-   "price": 342.96,
-   "chg_pct": -1.71,
+   "price": 343.82,
+   "chg_pct": -1.46,
    "prev_close": 347.73,
    "spark": [
     343.91,
     347.1,
     343.83,
     348.91,
-    342.96
+    343.83
    ],
-   "mkt_time": "10/30 3:19 PM ET"
+   "mkt_time": "10/30 3:41 PM ET"
   },
   {
    "symbol": "MSFT",
-   "price": 520.77,
-   "chg_pct": -1.77,
+   "price": 523.33,
+   "chg_pct": -1.28,
    "prev_close": 524.51,
    "spark": [
     532.6,
     531.33,
     531.01,
     530.14,
-    520.78
+    523.33
    ],
-   "mkt_time": "10/30 3:19 PM ET"
+   "mkt_time": "10/30 3:51 PM ET"
   },
   {
    "symbol": "META",
-   "price": 612.93,
-   "chg_pct": -1.86,
+   "price": 614.81,
+   "chg_pct": -1.55,
    "prev_close": 642.62,
    "spark": [
     630.56,
     620.19,
     612.49,
     624.52,
-    612.93
+    614.81
    ],
-   "mkt_time": "10/30 3:19 PM ET"
+   "mkt_time": "10/30 3:51 PM ET"
   },
   {
    "symbol": "AMZN",
-   "price": 239.03,
-   "chg_pct": -1.95,
+   "price": 239.66,
+   "chg_pct": -1.69,
    "prev_close": 248.0,
    "spark": [
     249.09,
     253.1,
     254.6,
     243.79,
-    239.03
+    239.66
    ],
-   "mkt_time": "10/30 3:19 PM ET"
+   "mkt_time": "10/30 3:41 PM ET"
   },
   {
    "symbol": "GOOGL",
-   "price": 277.89,
-   "chg_pct": -2.09,
+   "price": 278.72,
+   "chg_pct": -1.8,
    "prev_close": 320.21,
    "spark": [
     316.8,
     320.58,
     324.89,
     283.82,
-    277.89
+    278.72
    ],
-   "mkt_time": "10/30 3:19 PM ET"
+   "mkt_time": "10/30 3:43 PM ET"
   },
   {
    "symbol": "TSLA",
-   "price": 398.0,
-   "chg_pct": -1.31,
+   "price": 398.57,
+   "chg_pct": -1.17,
    "prev_close": 372.22,
    "spark": [
     391.62,
     407.46,
     404.22,
     403.3,
-    398.0
+    398.57
    ],
-   "mkt_time": "10/30 3:19 PM ET"
+   "mkt_time": "10/30 3:44 PM ET"
   },
   {
    "symbol": "AMD",
-   "price": 497.32,
-   "chg_pct": -12.2,
+   "price": 497.5,
+   "chg_pct": -12.17,
    "prev_close": 516.79,
    "spark": [
     531.28,
     560.26,
     578.44,
     566.42,
-    497.32
+    497.51
    ],
-   "mkt_time": "10/30 3:19 PM ET"
+   "mkt_time": "10/30 3:41 PM ET"
   }
  ],
  "news": [
@@ -307,22 +307,16 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkloOE1iMUlPS0h6NEh3ZW12aWZsWVJZTWpaNVhBbTUwUWVtbWRUYWRHLW92NW5hZVVva2x2UlRfVnpVYkliTkVxMGdFdnk2VlpzcW4tWV9nelR1QTJLZUlvU0hhbEVyVGlJWkpqaHdrNkRhZjU1NVZKTHNPYUdEcdIBhgFBVV95cUxQXzZmN2tEbFpRYWVLT1JpRVFmekhMM2NBZXFNT0JqZGNvSEdhOXdKeFNjVFpteV95S2N0emdzOERsVVQwY1NMLWVSMHI0aU5wa3FyNm91NXBLekFKczlqd0hzMndycEwtVUVkbENtWGFsTkVldER0b1Eyb0xiMUtkY0RHM1dvUQ?oc=5"
   },
   {
-   "headline": "You can expect the stock market to rally no matter who wins on Election Day",
-   "source": "MarketWatch",
-   "time": "1:32 PM",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFdRa2lwMlpzZndhakxjMXlWQUNHak43STVpTEJ6MGFtZDRBT0tvejY3Ty11cVo0X25FelVXTkFXWWdfaDNHZjhRSkZrYndwZWVueGhweHRNUGkxOXdwejN4M1FNS1dSNTF6OF8xVDhXajRpQjNucnA3V1ZsQm5iZWlVMFdWQzFEZWlzRkhCblhLUi1QZjZ0LWdUd2pUbWxEeUpTRlpSdVBFSHF4bnlZU3Bac0dnMWdYaUE?oc=5"
-  },
-  {
    "headline": "Why the Markets Don\u2019t Care About the Midterms",
    "source": "The New York Times",
    "time": "1:13 PM",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVUdlSXdpbS1qdldrbm9yaTk1N0ZTZm1hemx1aWJJNFg1SWFlOW1QNW9zQ3Rwa2M5NlRVbjY2WGxjUjZLbXdMSkV5RWNlOXpJUW9qQjNsOUJScFphb0R4M0VqNUFXTElQQW9xSmtIdU1sMExSak9DcGtMdVpEY0ZVYTB3?oc=5"
   },
   {
-   "headline": "Google's parent company suffers largest stock market wipeout ever",
-   "source": "KEYE",
-   "time": "3:01 PM",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb3oyZzZ0SGFmQXZpek9xb3ZIWlJicFN6U2p3TVpkN2hISDFvR1d4R05DN0x6SEJ4ejA4YUhXS3E5eFNJSWY5M09leXJhMzRFc2lvZTNrVjBleldrdW0ycEtheFhlMHI4bXRyTllTT2hLY0FFVjdqNTlyUTQ4Ry1CLVZqejItVEp4QnhpU2Vxa1ZUWU4xaWhVWXU2REl0d0NuaXN5dkg5NXlLai12SUVwOVFFencyWU5BcVpEQ2hESHI3SHdQaWZRLTBWYnFLblRsT3R5cFEzWi0?oc=5"
+   "headline": "Will Midterm Elections Cause a Stock Market Crash? 4 Catalysts That Can Push the Trump Bull Market Over the Edge.",
+   "source": "Yahoo Finance",
+   "time": "4:26 AM",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORkhiVGE0Y0U2RENCN081Q25HNkU4NXF6b0ZPVjljQTM3UkJYZlVBbjVhUS03Zy1rUHhsYkE2Uzl5cXU5Ul94V1FEWHNMM2FvdHZSRXlkT1JTTTlmb2tpVHFxS1A4ZjY0bWVhWGNGOFk0cTdjdURLUGFDM0pRYzlDSXIzWUhaLU5TUDJSYkxBT3ZVRnJWbWgyODZLZzdfUmNjamtB?oc=5"
   },
   {
    "headline": "Shares of Google\u2019s parent company just had their worst day ever. Here\u2019s what it means",
@@ -331,10 +325,16 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvbkJ5TjFBalI5U2dYTm9ycjZMNTdCdG1qWVNrem80VzB0eDhWejIxV2M0dndPeER2NjFBUFR3VXBDZmYtQ0Q5eWZUUGg5MFNUTFdZZ0FaWU5NRWRabkZpSWhvX254SlJzMExsR2RDemhXY3c?oc=5"
   },
   {
-   "headline": "Google parent Alphabet suffers nearly $500B Wall Street wipeout amid AI spending fears",
-   "source": "Fox Business",
-   "time": "7:17 PM",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVNFY2lBeUZZS2t3MnBITVE3WGVpdUhPQTRIV3hwWE9aazh5b1BCZWtJNTFIRmdScklnNXRGTWM4ZDE4N0J5REJoUG02V3p6YmV1SjF6dlluSkVpSlNESHV6SWFBV0UyTHUxUjZIbEx1Q3N5SS1uYVRaVmtVTS1COGxSMzVJdzd6LU5MYjZuWnZIYWdXRVU0VkE2YVpCdEJYZmhQQlRIYUluQzVsYlNud2hmTzJPMV9HaFlFeFNn0gHDAUFVX3lxTE9DemkxMlBiTmhWNGtuSGxUSFJ0ekZpR3BQOG0xNkRGdFlibEhXU0FJYWJOZUgybXozamFLdDRUdHExRU9pNzlhNmpPbURmcklCQTEtWnRSMENuN241ZEV3Vy0wd3EwaHRqUE1tQXZtaHRZdVJEeXhrbllqT0dVWnBiM1F6MFdULU5Bd2F5clZaZHBQQmttSFhJckg0a255Tng3SzFvXzE3NENudFF1LXk1Y052N3VETFBMcncxbnRoX1B5MA?oc=5"
+   "headline": "Alphabet loses $475 billion in market value, the biggest drop in its history",
+   "source": "Yahoo Finance",
+   "time": "12:17 PM",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0pfRGxYakdFTWU5eXlYYTd5cGVuVmpzMDFiMDBuX2ZOQVB5aFV1Qmk1dEhXQWwtSVNtU2ZOSTNfVDMxS2NoMUpTbmJ3a0hYOGtvOGJldXlkU3k2N3djaVhDMUNGN0g5Q1J2SzRXMkhXbzI3MUxqd2t5SEszX0JEZWZPUmRSd3VZQmYyZzZZeDNvY0hKaExMcnNTbHhzeTItckpZaEJmbWxodHVla2FKTTN4cmdFY2VjWk96cjdwLUtjX3FMRmZwLVp3SHJiX2xNajBR?oc=5"
+  },
+  {
+   "headline": "Google's parent company suffers largest stock market wipeout ever",
+   "source": "KEYE",
+   "time": "3:01 PM",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb3oyZzZ0SGFmQXZpek9xb3ZIWlJicFN6U2p3TVpkN2hISDFvR1d4R05DN0x6SEJ4ejA4YUhXS3E5eFNJSWY5M09leXJhMzRFc2lvZTNrVjBleldrdW0ycEtheFhlMHI4bXRyTllTT2hLY0FFVjdqNTlyUTQ4Ry1CLVZqejItVEp4QnhpU2Vxa1ZUWU4xaWhVWXU2REl0d0NuaXN5dkg5NXlLai12SUVwOVFFencyWU5BcVpEQ2hESHI3SHdQaWZRLTBWYnFLblRsT3R5cFEzWi0?oc=5"
   },
   {
    "headline": "Is Nvidia Stock a Trick or Treat?",
@@ -361,12 +361,6 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGRMR0plbFBLc1V2RlE3ZlJwRlRCOWhFTWJRTk90RnRBUTlMdjhsXzlXemw0N3VtTlNzNzZTNTduZm1ScFAyNElyS0lDei1DcG51NXIyOFBhNTFKNk1URXhiV3Y4M2pBRjFraHZSN1I0ejVmbExJbFhrNGRUUU9xSms1OGtjZFNVaXc1YVVjaU1Qa1NUc2UtYVJmalVWUmQ2WC1zWlB2WUhQTjVQaHc?oc=5"
   },
   {
-   "headline": "A historic drop for Alphabet's stock drags the U.S. market lower",
-   "source": "Pittsburgh Post-Gazette",
-   "time": "10:08 PM",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONGIycDdudXhhOTZsRUN4Y0ZkVDl3cmMtS2FqLUZsZ2RaMUVBcEFScE9MdTFuTW1ZM2EyUlpCZkhLaDZjT1EzWlA1M0s4STBYVlJna0F5RnZaTzk3TUpZQ0VMaUpkMllQT1JWT0IyUFZhV1hJUThHNGxfU0RCUDc3ZzVTaW9ibUNQX2htYVJGUVVIazk3S0VPSU1LLVV5bV84SS1VU3F0Zk15cjhJZjJB?oc=5"
-  },
-  {
    "headline": "Jim Cramer raises a red flag to stock market investors",
    "source": "TheStreet",
    "time": "4:16 PM",
@@ -377,6 +371,12 @@
    "source": "Al Jazeera",
    "time": "4:05 AM",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnpZajRhRWstNnFKRk56bDdYa1NjTzBLbm93Q0hlbl9lenA0Y3dvUVN2S1RpenhkZkRVX0VnNEpDTVpIeEJzdWx2cWVIcHpndHBLYWtHeWIzeTlST0RPYmF5MUFLVGxwcTV0ejY5eEJXc1JkMDAzdFhfdkxuS3hEMjNvdVQ0dkg5TVJBRUc2TlotazZXcXJmSHZoR0tYd2ZHR21LOGxkREfSAa4BQVVfeXFMT2kwVTNxTlpHZjMyVTYxMHYyeEpVV2llTExoc2NHN2w4YkpOTndyV01oV3E3UkYxZEJSZmxiZDR1M2h3VHFwVlRlaW9HR25PODdhc1pzazZjUHV5SjJnYmczSUlKMktGRlQ0bTJiLVBQOEhzU29Ka0prSDJJNUh0djM4RXA0TUl5YThVWS1QenlnSkFwOHc0a2ttRmNlRlFVU2k0bXdrUVR1OHFkWHln?oc=5"
+  },
+  {
+   "headline": "If a Stock Market Crash Is Coming, History Says Following These 6 Words From Warren Buffett Is the Smartest Move You Can Make",
+   "source": "Yahoo Finance",
+   "time": "12:20 AM",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTEFzT09SWi1jZGNFVFA0NEJ3allnZ0Vva1JpOEU2Q2lEdzQ1b0d3ME1kSmZFek1pbWpQSEVLZGJBTHhwem5pWHRRTnFTY0ZNTlhSTFZ1Snk1dHVCRFpXeHFCTGJjUEJjc3ZhVzE0RksxYU9RLXcyd3h6azBNenRFUmJoMk1EbW9yS0U2b3ZZaTJYdnJNX3ZuV3YyTzAxSTQ?oc=5"
   }
  ],
  "disclaimer": "Delayed quotes for ambient use only. Not investment advice."
