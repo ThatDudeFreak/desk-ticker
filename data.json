@@ -1,62 +1,62 @@
 {
- "generated_at": "11/4 4:20 PM ET",
+ "generated_at": "11/4 4:25 PM ET",
  "market_open": false,
  "tape": [
   {
    "symbol": "ES=F",
-   "price": 7727.0,
-   "chg_pct": 1.72,
+   "price": 7733.25,
+   "chg_pct": 1.8,
    "prev_close": 7614.0,
    "spark": [
     7614.0,
     7574.5,
     7596.75,
-    7727.0
+    7733.25
    ],
-   "mkt_time": "11/4 4:10 PM ET",
+   "mkt_time": "11/4 4:15 PM ET",
    "label": "S&P FUT"
   },
   {
    "symbol": "NQ=F",
-   "price": 28593.75,
-   "chg_pct": 1.02,
+   "price": 28628.75,
+   "chg_pct": 1.14,
    "prev_close": 28534.0,
    "spark": [
     28534.0,
     28127.5,
     28305.75,
-    28593.75
+    28628.75
    ],
-   "mkt_time": "11/4 4:10 PM ET",
+   "mkt_time": "11/4 4:15 PM ET",
    "label": "NAS FUT"
   },
   {
    "symbol": "YM=F",
-   "price": 53563.0,
-   "chg_pct": 3.21,
+   "price": 53593.0,
+   "chg_pct": 3.27,
    "prev_close": 51918.0,
    "spark": [
     51918.0,
     52133.0,
     51895.0,
-    53563.0
+    53593.0
    ],
-   "mkt_time": "11/4 4:10 PM ET",
+   "mkt_time": "11/4 4:15 PM ET",
    "label": "DOW FUT"
   },
   {
    "symbol": "^VIX",
-   "price": 16.74,
-   "chg_pct": -19.62,
+   "price": 16.73,
+   "chg_pct": -19.68,
    "prev_close": 17.2,
    "spark": [
     17.2,
     19.42,
     21.15,
     20.83,
-    16.74
+    16.73
    ],
-   "mkt_time": "11/4 4:05 PM ET",
+   "mkt_time": "11/4 4:10 PM ET",
    "label": "VIX"
   },
   {
@@ -76,45 +76,45 @@
   },
   {
    "symbol": "BTC-USD",
-   "price": 80111.01,
-   "chg_pct": 2.97,
+   "price": 80030.16,
+   "chg_pct": 2.86,
    "prev_close": 77434.75,
    "spark": [
     77434.75,
     78248.45,
     76677.3,
     77345.05,
-    80111.01
+    80030.16
    ],
-   "mkt_time": "11/4 4:20 PM ET",
+   "mkt_time": "11/4 4:25 PM ET",
    "label": "BTC"
   },
   {
    "symbol": "GC=F",
-   "price": 4075.8,
-   "chg_pct": 3.44,
+   "price": 4075.6,
+   "chg_pct": 3.43,
    "prev_close": 3898.9,
    "spark": [
     3898.9,
     3969.6,
     3940.4,
-    4075.8
+    4075.6
    ],
-   "mkt_time": "11/4 4:10 PM ET",
+   "mkt_time": "11/4 4:15 PM ET",
    "label": "GOLD"
   },
   {
    "symbol": "CL=F",
-   "price": 88.49,
-   "chg_pct": -7.91,
+   "price": 88.52,
+   "chg_pct": -7.88,
    "prev_close": 104.12,
    "spark": [
     104.12,
     96.46,
     96.09,
-    88.49
+    88.52
    ],
-   "mkt_time": "11/4 4:10 PM ET",
+   "mkt_time": "11/4 4:15 PM ET",
    "label": "OIL"
   }
  ],
@@ -338,10 +338,10 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLVZaR3lYSmVaejVSOHdRT2JkNnBod0lGd3BIREYxZFM2b0w0TjIxSGh0eEcxOWk3VnFTRXlXSUU2ZmQzM29LSW8wQXdYRnByelZMV3gwREViSWRWdWNzX1Flc1pZMEtjX082aWlGUDNSNTd6MXQxdnZ0RzM1SVZ3NVdlbWN4MzBJc3F5OWVHcS1PZkRXTUYwdFpNVkV2UU1PZ1kzZW85WUZXbURPOTZFUVFBVFZUNjZadzFOQ2pSR0w5d28?oc=5"
   },
   {
-   "headline": "Stock market after midterms: S&P 500 returns since 1950",
-   "source": "qz.com",
-   "time": "9:59 AM",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PakppelN6NzhTSlNfa1RNSnBoTFBpRzVWN1pzN0FrSHJ0Mm5PY2Jwb0pzajMxWmkxNlI5MjlIY085YlFGbGFQWE43bnNuMVBGcnkxLUNQYlh4S3pGMHhfLVpSYjh6Nkt4WjBicnJ6TQ?oc=5"
+   "headline": "Stock Market Today (Nov. 4, 2026): Nasdaq climbs as Democrats take House and Senate",
+   "source": "Yahoo Finance",
+   "time": "9:54 AM",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYkd5VHpCNU1mOXp5T0wybnpvcTVVdEIxa0hUcHRWWDF6OHlrUDh5Y2pPVjcwSHprQjJuOEhQNFdBT2Z4OGY5Y19Zdk9IN2doN19nMllhVXFBMkEwVmZ1eFlxbzAxYTNpYmZXamkzeGhsb1JYd1lEMDlSVVFSdnpMeFJoU0Q3UkI5U0NHbnhQMW9GT2s?oc=5"
   },
   {
    "headline": "Why the stock market is unexpectedly rallying in the wake of the Democratic blue wave",
@@ -362,16 +362,16 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXJkbEQ1VVJ2TFVNSE9HM08yTHJqUVJ2Nl91V2ZKYzZoenNmY29mbGhXS2x2aGQ4d0F3OGtJV3VndHJIN2FKSUlYNlEteUJua3JES3Q5cmV6T2Y3ZFAzQXYtR2FQZFBZQmtIZXlob0FJZktTU1NlSzVaTGNKVEk1aHB1b1ZrZV9lcnh4eXNQalp1LXFLVl8zcnIxcVljdw?oc=5"
   },
   {
-   "headline": "If a Stock Market Crash Is Coming, Warren Buffett's 7-Word Investing Advice Has Never Been Wrong",
-   "source": "Yahoo Finance",
-   "time": "8:20 AM",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSXpDeGpqWVhwcTNvTGNoWTFCSXlyMXh6U2hqV3g0UHhWelNfX1FOTjdvc1Z0T0VCMWNnLXIxTjZybUEtbkdUWmp0SE9Gb2pGaEZISXB3WXNNTkRFSERJOGVQaXZVOTliUVYzRW1VMXpMSWhfSEFGNEZGYk55U1p3Q0xWd2x2eVNUUVE2NjAzeG8ybFM4eUprUmp5MVN4Zw?oc=5"
+   "headline": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks",
+   "source": "Reuters",
+   "time": "3:43 PM",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5"
   },
   {
-   "headline": "US Midterms: How Markets Are Reacting to Democrats\u2019 Congressional Gains",
-   "source": "Morningstar",
-   "time": "1:01 PM",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnA0TXQySHV5ZTIzTEkwSk4zU3hUM3RFdGpnaXRWejN2YUgxS1ZYWjVZYU1aNHkzMG9ReVBRTkNCTDVycVh0ZTJOQkxBYkJnSUFzajNjbWFTc3plYVJIdkJmVzcxck90NTJQeVNldmN1a0xiRHgwU0NpQkhHWUVDRjBYVDlNdWJuYWg2OHRvakdqOE0?oc=5"
+   "headline": "Stock market after midterms: S&P 500 returns since 1950",
+   "source": "qz.com",
+   "time": "9:59 AM",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PakppelN6NzhTSlNfa1RNSnBoTFBpRzVWN1pzN0FrSHJ0Mm5PY2Jwb0pzajMxWmkxNlI5MjlIY085YlFGbGFQWE43bnNuMVBGcnkxLUNQYlh4S3pGMHhfLVpSYjh6Nkt4WjBicnJ6TQ?oc=5"
   }
  ],
  "disclaimer": "Delayed quotes for ambient use only. Not investment advice."
