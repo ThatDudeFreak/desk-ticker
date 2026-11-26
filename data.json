@@ -1,6 +1,6 @@
 {
- "generated_at": "11/26 3:51 PM ET",
- "market_open": true,
+ "generated_at": "11/26 4:21 PM ET",
+ "market_open": false,
  "tape": [
   {
    "symbol": "ES=F",
@@ -79,17 +79,17 @@
   },
   {
    "symbol": "BTC-USD",
-   "price": 60702.6,
-   "chg_pct": 0.84,
+   "price": 60757.36,
+   "chg_pct": 0.99,
    "prev_close": 61161.91,
    "spark": [
     61161.91,
     61210.98,
     59747.77,
     60378.2,
-    60702.6
+    60757.36
    ],
-   "mkt_time": "11/26 3:51 PM ET",
+   "mkt_time": "11/26 4:21 PM ET",
    "label": "BTC"
   },
   {
@@ -307,28 +307,16 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVJKQzVEUVhZQkxHM28yQ1paU3Y2ZVhGT25aMFpyYmN6akhuOEVxTVpVT1hpeVk3ZkV1MWNjNlA2NjdZZ3ZMLVlGZVFVbEdqNjlmQ0FodV9mb0lLanNiSVhyX2o2WUdZaXNGSEdWWWFnUnptRG03QXM4N253RkYxXzNKVQ?oc=5"
   },
   {
+   "headline": "President Trump Just Hit Stock Market Investors With Bad News at a Bad Time",
+   "source": "Yahoo Finance",
+   "time": "5:32 AM",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWnRGakQ1eUZ0VExDNTRFOVN5Mm01NHZPTENfQTc2em0yRlg5R1kyOVV4cE94dFVlbHFuelc4VW5mVFVZX2lTdzdlWG50cEVXdUZFVDF3eHlqUmdObDllZFBjMTZsVmlTa2dPRzVjTEpxamtUb2lyMHdsZXAwYkZlVXBoUHFINF9naFdKNmxTV2lXZWhiYURRQ3RBYw?oc=5"
+  },
+  {
    "headline": "Trump owned millions in Nvidia stock as he pressed chip giant to reinstate Jensen Huang",
    "source": "CBS News",
    "time": "6:00 AM",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95MDQ2enUzdlIwVHpBQTRKRG9Gek5jcTVtdGNaclcyRVpzSVVnWUIxRl90OFZoSGpaNS1HZ0N1bGw3TFNqazVDS1JMVVNvOEpRVWgzbnFPZUNfUm8ydVl6cnlkLWJ1M2wxWkNTQk5n?oc=5"
-  },
-  {
-   "headline": "SpaceX, Elon Musk to give one share each to active Trump Accounts",
-   "source": "Yahoo Finance",
-   "time": "6:12 AM",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX19Rdm5qYUwtN1FLbDk5cmtvclRlcHJhUktLMF9hY3lWbjZXVm1WQlVsQUpJb1paR09SRFQxcmtxaXRyVEw3X3k5dnM5clY5MkI2MkVKcW0yVFQ2dUZTTFFyUTNGVzBKR1N6dWVXZjlMZUNXRlcwNHczbVUtcFUtX2tBcHNiVXROU09mb1VUU05vd1ZmTk85TGREM0FPQW1seHhiZVZGcmp6NjdpN2p5czlXNXgxalFYZjBEam9B?oc=5"
-  },
-  {
-   "headline": "Nvidia Stock Has Found Its Next Big Catalyst, Making the Stock a Once-in-a-Decade Buying Opportunity.",
-   "source": "The Motley Fool",
-   "time": "12:57 PM",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNlYtanViOVZ0ZUxOeUxTeXpWaXE5Slc5R2tLNjU4UDI3YzVEUnV0ckNfQ1QtOGxySUI1REtKd3JSQ3RqOF9ab0VCVDlrMk9maFFTbEtNRHdtbHJPTzM3MHlENl81WjFYdUJueGdtQ3F5Q05lMTJIWnRtaFR1OG41a0VoVGtTN0JwaUI5WTN4SnJhV1VfRFZ5S200TUxISFZKYmZJNjh0bWxMLTktaERMX0FWN1JxLWl0dFNNeXY4a3BabHVIMlQ2QkNXSVhYZldJZUJzVEtuc2NxZw?oc=5"
-  },
-  {
-   "headline": "West China Cement (SEHK:2233) Stock Looks Stretched Against Its Current Earnings",
-   "source": "Yahoo Finance",
-   "time": "3:12 PM",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcThzVzFuTnlQTDkwamxCYk5BcVNRaHljVjY0N1NsZDlXaTh6ME1FRDdYQlR5Q1pTQTV6VVJNNFRpcHpvVHVBSjZqNWZDMDB1TFhTeHBwNUtCMV94REpWS3NfT3A5SHNRcUE2c09pYTE0ekFteTItM1MxVThaamgwZUctNW1VMGcwLURfRDl3TkwxVm1tZnhV?oc=5"
   },
   {
    "headline": "Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
@@ -337,9 +325,21 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQy1uVkhEa0s3U2pJdkp0T0t5M1g2Z2llLXBtTXBSQjdyeE9va1Nid3JJWW45VkhpTzNVeVNKZ1V0ZUpPZUpTRTlwNGg2WnBERVZJRExBT296SEEzSXRzQVV2RTBrQnVXUzF2YWVYS3FWaV82SDFsS1lwemctVXhFVkkxOWx5aTFzZWlVVGxXOUN4elVDQjRmM0JJUUFEdHU1MkFXNjVuQ2JyQXNNWFlEdEFYSUlLUkI4cU03eWVFWEMyQQ?oc=5"
   },
   {
+   "headline": "Why It\u2019s Hard to Write Off Micron (MU) Even with a Memory Peak in Sight",
+   "source": "Yahoo Finance",
+   "time": "4:00 PM",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlZMTDkyMUVnbDlsaGtqX2l2OTJCQzZGdlRva1hZdGN3UmlpcTlzaW9JZE9UanZYQW02ZkhBLWVBNDVocEZ4RS1sMnVMMkR1b29Nekk5SVRyZlNTb09zazlBT25sVjVsSS1YaGNTcThNS3hxMW05UlhZRmRqV2wyZ2JZY19PZ2RDMGpFNERRQ0kyUGgy?oc=5"
+  },
+  {
+   "headline": "Nvidia Stock Has Found Its Next Big Catalyst, Making the Stock a Once-in-a-Decade Buying Opportunity.",
+   "source": "The Motley Fool",
+   "time": "12:57 PM",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNlYtanViOVZ0ZUxOeUxTeXpWaXE5Slc5R2tLNjU4UDI3YzVEUnV0ckNfQ1QtOGxySUI1REtKd3JSQ3RqOF9ab0VCVDlrMk9maFFTbEtNRHdtbHJPTzM3MHlENl81WjFYdUJueGdtQ3F5Q05lMTJIWnRtaFR1OG41a0VoVGtTN0JwaUI5WTN4SnJhV1VfRFZ5S200TUxISFZKYmZJNjh0bWxMLTktaERMX0FWN1JxLWl0dFNNeXY4a3BabHVIMlQ2QkNXSVhYZldJZUJzVEtuc2NxZw?oc=5"
+  },
+  {
    "headline": "Stocks rally, Europe sizes up next ECB chief",
    "source": "Reuters",
-   "time": "10:51 AM",
+   "time": "8:35 PM",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5"
   },
   {
@@ -361,10 +361,10 @@
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSkxJaUdkRFAtMDhjN3dFbnktckc1TWpZc29idUF2NC1DRnFyOFFoTVRiS3JjRGdnRXRYWmdJWHZuR19XejZUaEMteHRJeVUxSU12WGk2RVhJazhXMFgxWlJpV0kwSzlHZDhITXNvMXVKT0h0dDU5cklZSGI3WUVRb2RiVjJDQXdjdEpMMm1KNHoyUXB1R2g1U2t1THg5T0F1VXI5QXdHaGM1T1dsYUc3Sm9UeXdfNmo3b0xDOGVFRkpRTkI1Y1E1MnVRVlhvSE9YckdJenh3dmdzYlRJU0swMFhn?oc=5"
   },
   {
-   "headline": "I Want The Stock Market To Fall - I'd Buy These Stocks First",
-   "source": "Seeking Alpha",
-   "time": "7:30 AM",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdTJRZkxqU2tSS2pRRl9RRklJVW4wUHFkbFZSZUZLZ0pueTlacEN2YUlsbFdiSDVoZVJTcy1vb0tGb1lfRVJqQlkyNHp6M3JQX1d3ZGg0UnZOWlR6Y2ZqaHRsMEpZX2N4MUV2bS1zT3BtRHBKeW0zeXl1QjFodXJoYWE1YmhQT1VEVjhHNDBOdnZRSWhCaXdTZV9jOThWTkE?oc=5"
+   "headline": "Stocks Rally Off Lows Despite Inflation and AI Gloom: Stock Market Today",
+   "source": "Kiplinger",
+   "time": "4:08 PM",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSmgxaWtuVUVLTkdrUC1ScUM3bmV3d3hjdXFiNThDeVI3eW12czZNeEtLbGtyWkx4LXNNRzlYTlpGOW02bjM5ZHgteC1RTlBTcF9UQ2dRSTNoX2MwN0N4TE0zaXNEZnRnUGRmSWFXV3pzRGR6OFNfNVpVZTVTWHo4WUdzejI0cVZrSUNjWlBhcTBoN3JOYzFiM1JVNFdCMU5KbndiU0ZNN1B6cHVrSzFLMnFQV3M?oc=5"
   },
   {
    "headline": "Stock Futures Rise as Dow\u2019s Rebound Goes Global. It Bodes Well for Black Friday Trading.",
