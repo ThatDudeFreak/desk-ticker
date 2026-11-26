@@ -1,50 +1,50 @@
 {
- "generated_at": "11/26 11:51 AM ET",
+ "generated_at": "11/26 12:21 PM ET",
  "market_open": true,
  "tape": [
   {
    "symbol": "ES=F",
-   "price": 7246.75,
-   "chg_pct": 0.71,
+   "price": 7240.5,
+   "chg_pct": 0.62,
    "prev_close": 6935.0,
    "spark": [
     6935.0,
     7254.5,
     7217.5,
     7195.75,
-    7246.75
+    7240.5
    ],
-   "mkt_time": "11/26 11:41 AM ET",
+   "mkt_time": "11/26 12:11 PM ET",
    "label": "S&P FUT"
   },
   {
    "symbol": "NQ=F",
-   "price": 26278.5,
-   "chg_pct": 0.68,
+   "price": 26253.75,
+   "chg_pct": 0.59,
    "prev_close": 25126.5,
    "spark": [
     25126.5,
     26808.0,
     26275.75,
     26100.25,
-    26278.5
+    26253.75
    ],
-   "mkt_time": "11/26 11:41 AM ET",
+   "mkt_time": "11/26 12:11 PM ET",
    "label": "NAS FUT"
   },
   {
    "symbol": "YM=F",
-   "price": 50507.0,
-   "chg_pct": 0.56,
+   "price": 50493.0,
+   "chg_pct": 0.53,
    "prev_close": 48216.0,
    "spark": [
     48216.0,
     49677.0,
     50061.0,
     50228.0,
-    50507.0
+    50493.0
    ],
-   "mkt_time": "11/26 11:41 AM ET",
+   "mkt_time": "11/26 12:11 PM ET",
    "label": "DOW FUT"
   },
   {
@@ -79,47 +79,47 @@
   },
   {
    "symbol": "BTC-USD",
-   "price": 60446.24,
-   "chg_pct": 3.27,
+   "price": 60424.92,
+   "chg_pct": 1.52,
    "prev_close": 61161.91,
    "spark": [
     61161.91,
     61210.98,
     59747.77,
     60378.2,
-    60446.24
+    60424.92
    ],
-   "mkt_time": "11/26 11:51 AM ET",
+   "mkt_time": "11/26 12:21 PM ET",
    "label": "BTC"
   },
   {
    "symbol": "GC=F",
-   "price": 3598.0,
-   "chg_pct": 0.94,
+   "price": 3598.4,
+   "chg_pct": 0.95,
    "prev_close": 3515.4,
    "spark": [
     3515.4,
     3651.4,
     3561.9,
     3535.8,
-    3598.0
+    3598.4
    ],
-   "mkt_time": "11/26 11:41 AM ET",
+   "mkt_time": "11/26 12:11 PM ET",
    "label": "GOLD"
   },
   {
    "symbol": "CL=F",
-   "price": 84.96,
-   "chg_pct": 1.53,
+   "price": 84.64,
+   "chg_pct": 1.15,
    "prev_close": 83.98,
    "spark": [
     83.98,
     80.17,
     82.05,
     83.68,
-    84.96
+    84.64
    ],
-   "mkt_time": "11/26 11:41 AM ET",
+   "mkt_time": "11/26 12:12 PM ET",
    "label": "OIL"
   }
  ],
@@ -293,91 +293,6 @@
    "mkt_time": "11/25 4:00 PM ET"
   }
  ],
- "news": [
-  {
-   "headline": "Stock market today: Dow erases losses to end positive, S&P 500 and Nasdaq recover ground amid AI sell-off",
-   "source": "Yahoo Finance",
-   "time": "5:52 PM",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUEhyLTdac1NBTVdPT1QyLUJKck4wUUJkNjlXQWFHTG1peDJyeDRqNklFSkVpek9JbmEyQ0gya1R6dGZicmpfbkFIS1BjR3lDeGhFMmpIYU90ajhxZ2lwYW5sLW93TmdZcXR3Q2p3akUxc1JBRVRmbEpVQW5LM3pDaXhNZWx6a0txT19rUTQ3R2xVejJWQkh0TzdSRmlOY0lDa05oNklJOE1fVV9CY1FuRXJMNHJrVG8zQzdTX0pjYmNwanNhd0VJcTVkRQ?oc=5"
-  },
-  {
-   "headline": "Trump Rejoiced in the Market\u2019s Nvidia Surge. It Didn\u2019t Last Long.",
-   "source": "The New York Times",
-   "time": "7:35 PM",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVJKQzVEUVhZQkxHM28yQ1paU3Y2ZVhGT25aMFpyYmN6akhuOEVxTVpVT1hpeVk3ZkV1MWNjNlA2NjdZZ3ZMLVlGZVFVbEdqNjlmQ0FodV9mb0lLanNiSVhyX2o2WUdZaXNGSEdWWWFnUnptRG03QXM4N253RkYxXzNKVQ?oc=5"
-  },
-  {
-   "headline": "Hawkish Fed poised to raise rates despite stock market turmoil",
-   "source": "Financial Times",
-   "time": "9:58 AM",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5"
-  },
-  {
-   "headline": "Netflix vs. Apple: Which Streaming Stock Has an Edge Right Now?",
-   "source": "Yahoo Finance",
-   "time": "9:21 AM",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbUlpUnRkWklaOEozU2g2QUxfUENSQ0NkYnBTaXFFRWhjbWtBV3JfZmRSbVozNF9LRldyOFZoZmtSMVgwa2dLQTNEb0ZheFNHNUhldVZ0QkV0YW9PY1J0c05MTjZHOGtZai15WGU1STRubmhkaDRCcHdqdGQyN2dPSkdOdnZYWFY4c0dxODREUGRpdVZ4SkJMNDdnRkZpQQ?oc=5"
-  },
-  {
-   "headline": "Anthropic Stock Snapped Its Losing Streak. The Case to Buy.",
-   "source": "Barron's",
-   "time": "10:56 AM",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wZUY2RGdBQ2Y5Z09jenpzdk9FVzY3Qnl2THFESlJyTmJLS0xFdERrTXViYVJjVWd2U3BWSmxCS0NYTXQtZzBpN0hhZ2tGYnQtakwxNHl1ckdsbTBwLTNPOXFmUm5ENUk3dVNOWUZTZnRBNUVzRWNDZk1qMk1uZw?oc=5"
-  },
-  {
-   "headline": "Stocks climb as traders shrug off latest US tariff salvo",
-   "source": "Reuters",
-   "time": "8:35 PM",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5"
-  },
-  {
-   "headline": "Stock Market Trading Hours For Thanksgiving And Black Friday",
-   "source": "Investor's Business Daily",
-   "time": "9:04 AM",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODNIOEhSMDhzMW5zbGhnRGlGM0RoTE94aEtITjNFZzd3LS1FeWFpYzNxby1oQnpNaEFuTDFJQmxNaW9Bb044amk2RFlqeG5pbk1YYmJoSkdpNUNRT0djVmV4M1BHWm0tLW82aXUtNDZGSUt1NzVVOHJ0eV90LS1GejdDR3FjNkdBekFHaU54Z1NKd2dfYlNJUDJRdkk2Z1hCbWZTLTVhcWQwMjQ?oc=5"
-  },
-  {
-   "headline": "Is the stock market open on Thanksgiving and Black Friday?",
-   "source": "Yahoo Finance",
-   "time": "8:54 AM",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGxNaFVNcUlTOUdBMC05cnlFNk0xclZhd1JTZV9rRENvTFpkZDF4WnVLb1FWdmNmMDhOT0dpSDYzc3ljNFNYUTZSdm4ybnMxNlRzZkpCbkxrWG5NeHU3bGhRaUJlQkR3Uktjd2U3MDBDUWd2RGthRVhpVExtQmxCM2NocEdVZWpZM3liSzZXeFNHaWFHckRQajZRM1o3a29NbERKMHJESGRIbk41SWxfSGV1cjlKSGZyLVB1RzhHOUtUS0RTc2RjSTRQNVFkUQ?oc=5"
-  },
-  {
-   "headline": "Is The Stock Market Open on Thanksgiving 2026? Here\u2019s When Trading Resumes on Black Friday",
-   "source": "TradingView",
-   "time": "1:31 AM",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSkxJaUdkRFAtMDhjN3dFbnktckc1TWpZc29idUF2NC1DRnFyOFFoTVRiS3JjRGdnRXRYWmdJWHZuR19XejZUaEMteHRJeVUxSU12WGk2RVhJazhXMFgxWlJpV0kwSzlHZDhITXNvMXVKT0h0dDU5cklZSGI3WUVRb2RiVjJDQXdjdEpMMm1KNHoyUXB1R2g1U2t1THg5T0F1VXI5QXdHaGM1T1dsYUc3Sm9UeXdfNmo3b0xDOGVFRkpRTkI1Y1E1MnVRVlhvSE9YckdJenh3dmdzYlRJU0swMFhn?oc=5"
-  },
-  {
-   "headline": "UPDATE: California teacher pension fund vulnerable to stock market\u2019s Nvidia-fueled AI turmoil",
-   "source": "EdSource",
-   "time": "2:37 PM",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWtrQjRIVThOZDczS0hNZVlKUWtBRzk5T002Q1Z0NW9HdmRBS0FWbE5LQWhiZEpHbUZNcTlKTnpKVXllSWZBN19mdXBqWkhwUkx5VFpwaVNEc2JZTmV1RWpaQUJhWlFOVnNYRWNhYlFhLW5ZWnpQUHItTzJZa2ppaERXNU1Xb1lHdnN6dXdrVjNEMUpwd3A2alY1WmNWcFc4NThYWGF1U2VON1J1d3FqbllXYw?oc=5"
-  },
-  {
-   "headline": "4 things investors can be thankful for, even after a brutal stretch for stocks",
-   "source": "Business Insider",
-   "time": "5:50 AM",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWlVMVN4S3hZMFhfdjBibTlzdGtBbm5ScV9XWks2NjM2VG15X1FZdk9qZmhYTFRNRVplYUdYVFhsWUdiQzJfRWhyQlBhdzJVclNGMW9iU0JKMkI3SFkteUpGNkRvbFYwVUg2eEM2Q3FieTN0MDZaR0ZHcklhVEpmTkloRnRvVE9UV1V3WVdCX0hvd0hFaW9NTElLQzVUMzBzNzF2WG9UUndnVkZSOTFya2ptTjE?oc=5"
-  },
-  {
-   "headline": "How the Stock Market Has Changed Since the 1980s",
-   "source": "Kiplinger",
-   "time": "8:00 AM",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb1hGbWQtLTdVeTB3a0lWbWZCS0NveVE0Y1YtamdzX19MYm92cDFVTC1oLUxRS2lSXy00bU0yN0J2ZklZeXk5TkY2Zm4tNXZGSTl3WnljUG9XeVRyaGFkS2tIdk1QV2VIbUJuZDl0Zk1FeTd4OTRQaWdXaUMyNVRackk4YnphOXh4bFNfV2l5U2pkdFRrRVE?oc=5"
-  },
-  {
-   "headline": "Stock Futures Rise as Dow\u2019s Rebound Goes Global. It Bodes Well for Black Friday Trading.",
-   "source": "Barron's",
-   "time": "10:58 AM",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03UmtKSWxxaXFlWk9sdlFzUTZCazZiUzZtNGd5U2lFVXF4T2FpdXdIVlBMVmZFTGNaM3B3OTVMOVhubF80a1Zfd1pzSl9Ic1djOG1PTzRrZEdOaGRJaFZzMUUzbnVmYkpvMTVmT2l0MjBpMGhVQ2Vn?oc=5"
-  },
-  {
-   "headline": "Is the stock market closed? Thanksgiving, Black Friday trading hours",
-   "source": "Detroit Free Press",
-   "time": "6:01 AM",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQajlzdDRyNkZVZkZfQl9VSGdrZTdlOUR2a29GaWptZWs3dU5ZV202dzE5Y1pXRTc3TmtxMVRtZU5FdjljZjNtWXFpZE5vNmtYVElfZkhCRVBCSk5NM1Z5WVpXWjBwUzNKeWp3YjVMN0dYa2VtamNqaWZ0eGQzcGhPaWMzbGdORnFtU0U1NUJJQUJSb3ZvZUhZUzJhalFMc2lRakN6dzln?oc=5"
-  }
- ],
+ "news": [],
  "disclaimer": "Delayed quotes for ambient use only. Not investment advice."
 }
