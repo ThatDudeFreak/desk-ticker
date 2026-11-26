@@ -1,5 +1,5 @@
 {
- "generated_at": "11/26 2:21 PM ET",
+ "generated_at": "11/26 2:51 PM ET",
  "market_open": true,
  "tape": [
   {
@@ -79,47 +79,47 @@
   },
   {
    "symbol": "BTC-USD",
-   "price": 60519.41,
-   "chg_pct": 1.19,
+   "price": 60638.67,
+   "chg_pct": 1.39,
    "prev_close": 61161.91,
    "spark": [
     61161.91,
     61210.98,
     59747.77,
     60378.2,
-    60519.41
+    60638.67
    ],
-   "mkt_time": "11/26 2:21 PM ET",
+   "mkt_time": "11/26 2:52 PM ET",
    "label": "BTC"
   },
   {
    "symbol": "GC=F",
-   "price": 3593.9,
-   "chg_pct": 0.82,
+   "price": 3593.4,
+   "chg_pct": 0.81,
    "prev_close": 3515.4,
    "spark": [
     3515.4,
     3651.4,
     3561.9,
     3535.8,
-    3593.9
+    3593.4
    ],
-   "mkt_time": "11/26 2:11 PM ET",
+   "mkt_time": "11/26 2:29 PM ET",
    "label": "GOLD"
   },
   {
    "symbol": "CL=F",
-   "price": 84.96,
-   "chg_pct": 1.53,
+   "price": 84.91,
+   "chg_pct": 1.47,
    "prev_close": 83.98,
    "spark": [
     83.98,
     80.17,
     82.05,
     83.68,
-    84.96
+    84.91
    ],
-   "mkt_time": "11/26 2:11 PM ET",
+   "mkt_time": "11/26 2:29 PM ET",
    "label": "OIL"
   }
  ],
@@ -295,22 +295,28 @@
  ],
  "news": [
   {
+   "headline": "Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates",
+   "source": "CNBC",
+   "time": "4:17 PM",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Jd2QwOVppNGtIY3I5ZXgyVmZKQzJ3SzZvVnVydTJHQnliRXBCR2RiQTBMeXExQU16TnpPQzkwWVl2Q0FKV055NzJBNE4tMGQ0UmlFMFdnQ3o1OG9tR2JNd1Z6Ymk5cGtDVFBxZjJPT19jblIxZ2lwRdIBfkFVX3lxTE5qZGNISDFwMjNGQUoxc3ZlT1JFR1A5Zk1oTmJSX1kxWVFOWUZscTZGTWh2cHdfMW92SzVCbXdBR2o3YWJUVzN2TXhfOUdhSUZpdFNyNXBaUjdseWpuQklwaVgzaUlGdkJqNm54TWEyVTluWVFYVTZVMVptNV9xQQ?oc=5"
+  },
+  {
    "headline": "Stock market today: Dow erases losses to end positive, S&P 500 and Nasdaq recover ground amid AI sell-off",
    "source": "Yahoo Finance",
    "time": "5:52 PM",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUEhyLTdac1NBTVdPT1QyLUJKck4wUUJkNjlXQWFHTG1peDJyeDRqNklFSkVpek9JbmEyQ0gya1R6dGZicmpfbkFIS1BjR3lDeGhFMmpIYU90ajhxZ2lwYW5sLW93TmdZcXR3Q2p3akUxc1JBRVRmbEpVQW5LM3pDaXhNZWx6a0txT19rUTQ3R2xVejJWQkh0TzdSRmlOY0lDa05oNklJOE1fVV9CY1FuRXJMNHJrVG8zQzdTX0pjYmNwanNhd0VJcTVkRQ?oc=5"
   },
   {
+   "headline": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
+   "source": "The New York Times",
+   "time": "4:32 PM",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02aG9MTzVQV1FPaHZkWUlkbUctTTNOWWxwTHplcDc2akxGWU4xRy1MQndiMUxhU0tEN2Y5WkdRTlIxRU80aUxmbGNJOWVVdE12VjZ1YnM2NU8xN0VoX0ZmNVNrbDlGOEdLV0kzV19fcEJrNDVjUk1KZnhVMA?oc=5"
+  },
+  {
    "headline": "Trump Rejoiced in the Market\u2019s Nvidia Surge. It Didn\u2019t Last Long.",
    "source": "The New York Times",
    "time": "7:35 PM",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVJKQzVEUVhZQkxHM28yQ1paU3Y2ZVhGT25aMFpyYmN6akhuOEVxTVpVT1hpeVk3ZkV1MWNjNlA2NjdZZ3ZMLVlGZVFVbEdqNjlmQ0FodV9mb0lLanNiSVhyX2o2WUdZaXNGSEdWWWFnUnptRG03QXM4N253RkYxXzNKVQ?oc=5"
-  },
-  {
-   "headline": "Hawkish Fed poised to raise rates despite stock market turmoil",
-   "source": "Financial Times",
-   "time": "9:58 AM",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5"
   },
   {
    "headline": "Elon Musk didn\u2019t sell a single share in SpaceX\u2019s record $85.7B IPO. Anthropic\u2019s 7 cofounders cashed out $1.96B in theirs",
@@ -323,6 +329,18 @@
    "source": "Bloomberg.com",
    "time": "11:30 AM",
    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQOUdSUlMzSHlYUFhRTFZ5VzN6Zm5uNkRyWVhUUURjN2NyRDNsMHdpSTZVbTdJSFBHQWw2dVc2M0xkQ0NJMUQyTHZqbXlnNHY0M2RVZmdrOXdfRFhESmtQN1o3dndkUGxsUmRUQ3M0RE9LNXZETHQ5dnI3bmQteUI2WnAyQzJfMEdSNlRfZ19qaVJzblhPWVlJeWJzc2F4Zjk5a01OTGhDc3ZSUk1sQlgwLXk0bVNnQU1ERWUtQXowaEMwTmdmNFd6YkhzWWZPbk96U0Q3Z2dhRVRXb0xWSWk5VFczR3hqeUV4ZThzQ0lHWmNZWG9icUlyeXk2ZmRJWVVIZjloWGV0VmItb1RQVkdaS1lXcEw?oc=5"
+  },
+  {
+   "headline": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here\u2019s What That Means for Nvidia Shareholders",
+   "source": "Yahoo Finance",
+   "time": "1:12 PM",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzZOS08xQ2xKR3pPSHhwT3YwOWZOc1duVWRVenIta0FGQkgxOUt6YmNubGR2dVpQQm5xU0V5TG5GWnNWY0htLWRkcWhwOV9vWUtIY2VWWlhfbGdETmhvVkJKTnpndzQwekVjMHFpZ3ZOSTZzdG9QRDZ1d0gtSm9qcUx3TWNxQjhTdDZpeFlZYWh5bExGVUU3VkJ3?oc=5"
+  },
+  {
+   "headline": "Nvidia is crucial to the economy. An AI wipeout could unleash unexpected consequences",
+   "source": "CNN",
+   "time": "5:00 AM",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52c3JDajhQZ1R2d0RKejhxZDhrZ0QyXzBvWDVNSHFaMzFiV2dGZGZKbjdvZHNUZ3N2U3RGOVV3NHg2bm1CZUpkaEgwUkI4cHlhNmMwa3VDV0liSVluaVZZMnNpbnFRQTNaenc?oc=5"
   },
   {
    "headline": "Stocks rally, Europe sizes up next ECB chief",
@@ -349,12 +367,6 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObC1aVl9wd1oxYktYZFRnZjVBMHFrS0ZPMVV3UzdacGU1SHh2clYzeTZXYTROc2ItcjhMVUFFZDlMUGkxUXg1TnNKcDRvdUZPVmo2OUduaTc4dHFqVE9BalVvRmJVWndMMWtvbHAtREJQQ294cDc3cFcxdF96OF9pY2dKWDBnLWN2M1AyeUtKLVhHUEp0Q20tSVJPM25ITXY4dFlfakdfMjE5RUJiMGRaZ3llUWZrRVlMZm5NVFcwWmhWdjFhX2YtckNpTTdsV0Nld3Vz?oc=5"
   },
   {
-   "headline": "4 things investors can be thankful for, even after a brutal stretch for stocks",
-   "source": "Business Insider",
-   "time": "5:50 AM",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWlVMVN4S3hZMFhfdjBibTlzdGtBbm5ScV9XWks2NjM2VG15X1FZdk9qZmhYTFRNRVplYUdYVFhsWUdiQzJfRWhyQlBhdzJVclNGMW9iU0JKMkI3SFkteUpGNkRvbFYwVUg2eEM2Q3FieTN0MDZaR0ZHcklhVEpmTkloRnRvVE9UV1V3WVdCX0hvd0hFaW9NTElLQzVUMzBzNzF2WG9UUndnVkZSOTFya2ptTjE?oc=5"
-  },
-  {
    "headline": "Is the stock market closed? Thanksgiving, Black Friday trading hours",
    "source": "Detroit Free Press",
    "time": "6:01 AM",
@@ -365,18 +377,6 @@
    "source": "Bloomberg.com",
    "time": "1:07 PM",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5"
-  },
-  {
-   "headline": "Stock Market Trading Hours For Thanksgiving And Black Friday",
-   "source": "Investor's Business Daily",
-   "time": "9:04 AM",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODNIOEhSMDhzMW5zbGhnRGlGM0RoTE94aEtITjNFZzd3LS1FeWFpYzNxby1oQnpNaEFuTDFJQmxNaW9Bb044amk2RFlqeG5pbk1YYmJoSkdpNUNRT0djVmV4M1BHWm0tLW82aXUtNDZGSUt1NzVVOHJ0eV90LS1GejdDR3FjNkdBekFHaU54Z1NKd2dfYlNJUDJRdkk2Z1hCbWZTLTVhcWQwMjQ?oc=5"
-  },
-  {
-   "headline": "Explaining the stock market: Why is it still so hard?",
-   "source": "CEPR",
-   "time": "7:11 PM",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHZMblcwZnlTaFIyd0lYTlpQN2pCMVRhWGJJbkNrN253S2JpT0hMeUFqLW9sQWdESll4WnlpS2ZvRWVhN0JnYjNKOTI5QjZzczlvZDc5ZkhTMXNRbVFCN0JPSDhQQVlCQUJLOGJmcTRaa3NpczhHYk02QUF2T3laZw?oc=5"
   }
  ],
  "disclaimer": "Delayed quotes for ambient use only. Not investment advice."
