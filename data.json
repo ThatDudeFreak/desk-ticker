@@ -1,5 +1,5 @@
 {
- "generated_at": "11/27 2:51 PM ET",
+ "generated_at": "11/27 3:21 PM ET",
  "market_open": true,
  "tape": [
   {
@@ -71,22 +71,22 @@
     4.85,
     4.94
    ],
-   "mkt_time": "11/27 2:36 PM ET",
+   "mkt_time": "11/27 2:59 PM ET",
    "label": "10Y"
   },
   {
    "symbol": "BTC-USD",
-   "price": 59817.54,
-   "chg_pct": -1.36,
+   "price": 59701.69,
+   "chg_pct": -1.62,
    "prev_close": 61210.98,
    "spark": [
     61210.98,
     59747.77,
     60378.2,
     60494.71,
-    59817.54
+    59701.69
    ],
-   "mkt_time": "11/27 2:51 PM ET",
+   "mkt_time": "11/27 3:21 PM ET",
    "label": "BTC"
   },
   {
@@ -100,7 +100,7 @@
     3535.8,
     3668.5
    ],
-   "mkt_time": "11/27 2:41 PM ET",
+   "mkt_time": "11/27 2:44 PM ET",
    "label": "GOLD"
   },
   {
@@ -114,7 +114,7 @@
     83.68,
     83.08
    ],
-   "mkt_time": "11/27 2:41 PM ET",
+   "mkt_time": "11/27 2:44 PM ET",
    "label": "OIL"
   }
  ],
@@ -296,6 +296,12 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjdiRzk3dDlWMEFzNF9vYkRKWDZCZjhSU0FsRFZKZVNBT09SbnBBVFhxUGZCM180elZHMVFhbW80eVdqZi1WRG5XbzJXZTUySzVGOXNlVUJfZ2c3NmEydmFhZUJXZUM1NFMzWjIxbDF4OHhPLXVKMkRza0VMLVpoUWF1WDNkdFdwTmw4eU15M01laEJrQy1ra1FtU2piZ096dmpmSGlhdGs3WTRveTZ5aklMUkh1eW5PeHBZUlF0ODU1WE1xN3JnSVJB?oc=5"
   },
   {
+   "headline": "IPO Stock Of The Week: Software Leader Navan Hits Buy Point As Market Tries To Rebound",
+   "source": "Investor's Business Daily",
+   "time": "1:59 PM",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLZ25MNnBXVWFmbEFrOWdMSk1Od2pWb2g2VHFaU2h6cjVfX0xGekJSNkFOc2l1R0htN2JkZFg1UFdwVzczSWVRZGdXZnFWS01yaVdCSUFOOEl4RnVlTzZfczdfc3BLQWdCNWdETEtHYjRZbnpHNXVJ?oc=5"
+  },
+  {
    "headline": "How to Live Calmly, Despite Stock Market Whiplash",
    "source": "The New York Times",
    "time": "1:58 PM",
@@ -308,16 +314,10 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVJKQzVEUVhZQkxHM28yQ1paU3Y2ZVhGT25aMFpyYmN6akhuOEVxTVpVT1hpeVk3ZkV1MWNjNlA2NjdZZ3ZMLVlGZVFVbEdqNjlmQ0FodV9mb0lLanNiSVhyX2o2WUdZaXNGSEdWWWFnUnptRG03QXM4N253RkYxXzNKVQ?oc=5"
   },
   {
-   "headline": "Nvidia Stock Wavers On Headline Risks From Huang Testimony, Asia Sales",
-   "source": "Investor's Business Daily",
-   "time": "1:21 PM",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWlzeGdReHVRcXN3WnBtQ1BxRXhRNENVMjFVMHNVVFdBVXhmYTlIcWVJUHZkRUNveGluQk51ci12RG83cUNKZXlMcnhZcFl2VnZQWkhYWVUtYndjREVEUTZSUkFzU3YzbVJlVWEzSXRZUnpaQkxMaXhaMkpMR3U2ZGlaVkE?oc=5"
-  },
-  {
-   "headline": "China\u2019s Cabinet Stresses Market Support in Rare Midday Statement",
-   "source": "Bloomberg.com",
-   "time": "6:50 AM",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQak5CQ2hzYk9WT0pEN2JpTjdqdU81V2pWSkxEVmdVcy11NDhqX0RfRngwU3ZXczl6dXFkZXg3aEpPakM2ZTY4QXNJVlpiVEJ2MUs0bUF0MzVJUXd3dWtvWFJna2U2aVhYbTNmM3o1UmZBaGxZRzVCS0JwS1FMYVlUSmltWE1GTkkwdmhxMG5xYi1sNDBDLURIVExoODFYVVhHZkdaa1VyUnFTLTNw?oc=5"
+   "headline": "Should You Buy Nvidia Stock Before CEO Jensen Huang Testifies in Front of Congress on Dec. 1 and Dec. 3?",
+   "source": "Yahoo Finance",
+   "time": "2:48 PM",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaXhCU0JSVk9nU0hfMTFwNEVXd3V0ZDRNREo5VlM1ZUdCQWZlZ0tEVFlMY1J5MkhPczdmVjdXWElpdHpScTVsMFhrOWV5Qk0tVnBFSzZKb3gzX00wNVBRVHlQajFaYy00YjItYVpFSG1ZX1Z4aTB3UmtRM0lGMHoyS25nSlQzYUxCSGx1aWJsVTM2bHBJMjBz?oc=5"
   },
   {
    "headline": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
@@ -326,16 +326,16 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUs2ZGhWWGZ4dmxhN1NMMUlJMTJsVXJXQ1RlT1g0NXdQanJVczJ5djBtaGtBajh4ekxnN0JKQjBjTzBHWDNmZXR3cVVnaGpnZW5Fb0R0dGJMa05oYm5oU3hFYkFTNWlMTFlNOHJVdU1CdUJnTVgtTWlaYmtuTUc5TjVtY9IBiAFBVV95cUxPQW92NkJ5MlkwUXJzdzBoYVY5Mzh3TFQ2VjFHN2txazJUc1gxVjVrSzlNWUQ5VVVtdVNwQzhsWjE5WFVVdHBITXpNbFdBY0ctSElyekNOLWNraW5odmxtZ3hCODJuZ1VVSUYwSHNwMmJya3FvU3NoakthQ0IzdTZoNGkyTWV3QktO?oc=5"
   },
   {
-   "headline": "China stocks surge most in two years as Beijing vows stronger market support",
-   "source": "Reuters",
-   "time": "1:24 AM",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWxqTUV2X2RZam8zVGVSY2ZFTzRLQkxKYjdBUVJvR1dIOVlaczllTWRmay1FM3pMOHk5SlBjYkhxaDZ4YmJXbWM3NFpSRDBuWWs3T05QS2hZU2FoVzluTzJTMVFjQmhVS3B3a3ZQSXlOc0JKLV92RHZiNFZoNUlXUW5MMk1ncnpDXzVsMnhpTGx4OWpOVnpCNjlWRlJCa1Bp?oc=5"
+   "headline": "China\u2019s Cabinet Stresses Market Support in Rare Midday Statement",
+   "source": "Bloomberg",
+   "time": "6:50 AM",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQak5CQ2hzYk9WT0pEN2JpTjdqdU81V2pWSkxEVmdVcy11NDhqX0RfRngwU3ZXczl6dXFkZXg3aEpPakM2ZTY4QXNJVlpiVEJ2MUs0bUF0MzVJUXd3dWtvWFJna2U2aVhYbTNmM3o1UmZBaGxZRzVCS0JwS1FMYVlUSmltWE1GTkkwdmhxMG5xYi1sNDBDLURIVExoODFYVVhHZkdaa1VyUnFTLTNw?oc=5"
   },
   {
-   "headline": "Global markets rally as end of bruising month approaches",
-   "source": "Reuters",
-   "time": "9:01 PM",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDB1T1E2SVA0LVpuZFR6d2d5dWFobkEwdkN5aFVmZUZKN1pSVWExbEJzWlZhV0tKcklRQ09yZlFTZklkLTBNSGFwbHBfbHR2SWZoQTdXcWtFdEViWGdQamN2a0JjWjZ4M0Mydmlpc1lrQUdYaFBNVkFBdTQ4djVpbjZrRQ?oc=5"
+   "headline": "Chinese Shares Lifted as Beijing Signals More Market Support",
+   "source": "WSJ",
+   "time": "2:22 AM",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYmhhWlFIZ3RHR2RNUGZseElzdWpzZmIzN3Y4cnU5MzY2VjhhYWFVWWdiZmRvZTBXSS1JVTEwaE5HV0xKRERvWTV5dk9ITFJDM1RqTWRBb05kSlZSaFhfeXFMZGE1WDlNWmI5V0hWT2Z5dVRLb2NDQXRRaTBLaUNHd1NYYlBVbUc3SHFRblp3dlBXY3hwWS0tN09OVVV2Zk1XNDU5ZnNTTQ?oc=5"
   },
   {
    "headline": "\u2018Big Short\u2019 investor Steve Eisman tells young Americans not to buy a home and invest instead",
@@ -344,10 +344,10 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ2FZNnVJdHJHWnFZTWpHX1VFdzZGZFl2NkJNbTFOU3hwOWpUWmtNWGl2eUVLb0hIbW5hRWpYZGg1UDlZcXlPd2tEVmZLV1hZaWRzWVZOcVpxYkdiUHNwSFBicEFkUlBDaTkydkctcTVVNXJXTEJhMnEwSnFmYjZ3dUxrTmZvVThLUWpBY3hwYXdkdDRjT1lpRWZvMm9YV2ZTY3JfOTVRRkZOLTNZTjRfSDcwWHBlOUhwb0xINHc0UHF5Q3JU?oc=5"
   },
   {
-   "headline": "Europe joins global stock market rally as AI trade rebounds - as it happened",
-   "source": "The Guardian",
-   "time": "2:47 AM",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTVJ6em5seEtrb1dnM2RzUzlmTmFWVDRjUC03b2V0bjh4c05jZzMxRVlNektCM0xfZ2k0UEFzWjl6bHpTWmxvc0hsQWYyTlhpQVFUbmpzMmZQby1TUFNSRUw0dFQxN19SQ0YwUi1yaVZPYW0ybnNLN25JbW9OejI0SU05NUVqSXJCcTc4b2Vzbk1hcHc3bldFSXF3aEsxbzc1M2Q0RmFwclVVOHd2allNY1dDRU1KMl9rQmhpeFZSTFJ3cWZteHlualkxX3FpcWdjSUxkLWhFbmhsMlQ2MEE?oc=5"
+   "headline": "Why Has the Stock Market Gotten so Volatile?",
+   "source": "Morningstar",
+   "time": "1:06 PM",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR2c0VWxBZzJDRHVWaUZZN0FteTM1MTlKLWMxSmFUTElvN2lCTVZtSnNUQmVtYmNjbEJiNWFEc2JibE1nOG9fM2VoRldDTHpIR0pqcmdYUFVMamNPRVFTN2gxdmVkX3F1V200RFNOUHVsX0Q1SFZyYXpvR3pBMkFGUw?oc=5"
   },
   {
    "headline": "The stock market is stuck | Expert Opinion",
