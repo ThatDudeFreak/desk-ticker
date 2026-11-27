@@ -1,5 +1,5 @@
 {
- "generated_at": "11/27 3:21 PM ET",
+ "generated_at": "11/27 3:51 PM ET",
  "market_open": true,
  "tape": [
   {
@@ -76,17 +76,17 @@
   },
   {
    "symbol": "BTC-USD",
-   "price": 59701.69,
-   "chg_pct": -1.62,
+   "price": 59700.63,
+   "chg_pct": -1.63,
    "prev_close": 61210.98,
    "spark": [
     61210.98,
     59747.77,
     60378.2,
     60494.71,
-    59701.69
+    59700.63
    ],
-   "mkt_time": "11/27 3:21 PM ET",
+   "mkt_time": "11/27 3:51 PM ET",
    "label": "BTC"
   },
   {
@@ -296,10 +296,10 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjdiRzk3dDlWMEFzNF9vYkRKWDZCZjhSU0FsRFZKZVNBT09SbnBBVFhxUGZCM180elZHMVFhbW80eVdqZi1WRG5XbzJXZTUySzVGOXNlVUJfZ2c3NmEydmFhZUJXZUM1NFMzWjIxbDF4OHhPLXVKMkRza0VMLVpoUWF1WDNkdFdwTmw4eU15M01laEJrQy1ra1FtU2piZ096dmpmSGlhdGs3WTRveTZ5aklMUkh1eW5PeHBZUlF0ODU1WE1xN3JnSVJB?oc=5"
   },
   {
-   "headline": "IPO Stock Of The Week: Software Leader Navan Hits Buy Point As Market Tries To Rebound",
+   "headline": "How Cathie Wood\u2019s Ark Played Wednesday\u2019s Whipsaw Action",
    "source": "Investor's Business Daily",
-   "time": "1:59 PM",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLZ25MNnBXVWFmbEFrOWdMSk1Od2pWb2g2VHFaU2h6cjVfX0xGekJSNkFOc2l1R0htN2JkZFg1UFdwVzczSWVRZGdXZnFWS01yaVdCSUFOOEl4RnVlTzZfczdfc3BLQWdCNWdETEtHYjRZbnpHNXVJ?oc=5"
+   "time": "3:25 PM",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wT09lRE1RRlM2MnRhejNkOWJyX1R6NDd6WWlmOFYtMTIwWEQwRW0zMkxoZU9BWVJYdHQyWTBSVEs3ZXNtWFNVWUNYamFfT2VzTVA3UmppV252ZFAtS0Q2RkJlNGVPb0FfcWxZaEhfMm5DbmZwUWhBUnNn?oc=5"
   },
   {
    "headline": "How to Live Calmly, Despite Stock Market Whiplash",
@@ -350,6 +350,12 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR2c0VWxBZzJDRHVWaUZZN0FteTM1MTlKLWMxSmFUTElvN2lCTVZtSnNUQmVtYmNjbEJiNWFEc2JibE1nOG9fM2VoRldDTHpIR0pqcmdYUFVMamNPRVFTN2gxdmVkX3F1V200RFNOUHVsX0Q1SFZyYXpvR3pBMkFGUw?oc=5"
   },
   {
+   "headline": "Europe joins global stock market rally as AI trade rebounds - as it happened",
+   "source": "The Guardian",
+   "time": "2:47 AM",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTVJ6em5seEtrb1dnM2RzUzlmTmFWVDRjUC03b2V0bjh4c05jZzMxRVlNektCM0xfZ2k0UEFzWjl6bHpTWmxvc0hsQWYyTlhpQVFUbmpzMmZQby1TUFNSRUw0dFQxN19SQ0YwUi1yaVZPYW0ybnNLN25JbW9OejI0SU05NUVqSXJCcTc4b2Vzbk1hcHc3bldFSXF3aEsxbzc1M2Q0RmFwclVVOHd2allNY1dDRU1KMl9rQmhpeFZSTFJ3cWZteHlualkxX3FpcWdjSUxkLWhFbmhsMlQ2MEE?oc=5"
+  },
+  {
    "headline": "The stock market is stuck | Expert Opinion",
    "source": "Inquirer.com",
    "time": "7:01 AM",
@@ -366,12 +372,6 @@
    "source": "Business Insider",
    "time": "2:00 PM",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUVRZMGUtUC1mdXBWSVAwdzVBbG5hV0ptaktDcFhjZnZ0OS15ck1WNkxMU0hlWE5fSnd3cDJLcWd5bVdxYTlLTkZkUFpmMmdibnVNc0JXQ1E4N005RGI0S3NydW1XSEplRWpWenVob01EUFBPM1JXLVQxcV9yQW5IOF9xYWhWU0MwLWFtY3VrUmdmeUk?oc=5"
-  },
-  {
-   "headline": "Asian stock markets rise after earlier tech rout",
-   "source": "Al Jazeera",
-   "time": "10:46 PM",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGVRWWVjMXZERWVTSkhGRDFoSTFXVE1NeGY4cVdYSmQ0MkQwUFNnSXU2enI2ckEzREZrTmFVWFhMVVNKbnhuc3dQSjB1X3JTN2dNeWNwNGhFcDJmWUYzSnAzeUQyWHlBU21sY1VWWHl6a2RuRWRwdmZ1Y1NtSFpkcGs0RHR0T1RuUVJZREtCMm44RWNra3FyNtIBngFBVV95cUxNZUR4RVgzSXFQeEp5WktydzV5NjF4eU1XblVwdVRnUEh6MEZ5a1hvZmI1QmVuM0VaQkd2dVpQRGhIZ09IeEp4ZTl2WHpfNVIybjJ5X1Z2SElYUzl3UndYNkYyME5rNHoxeUt5Tmd2QVJud3FDb3p5Vk1MRnJRc3l3bkZ0eng3ZzUtVVZuSlVmNUdZMzVGWDZEYmlYWVFaUQ?oc=5"
   }
  ],
  "disclaimer": "Delayed quotes for ambient use only. Not investment advice."
